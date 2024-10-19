@@ -1,3 +1,9 @@
+# Vim Personal Keymaps
+
+This document contains a list of custom key mappings for Vim, tailored to enhance productivity and streamline common tasks. Each key mapping is described with its functionality, the mode in which it operates, the key combination (LHS), and the resulting action (RHS).
+
+## Personal mappings
+
 | Description                                                         | Mode | LHS       | RHS                                      |
 |---------------------------------------------------------------------|------|-----------|------------------------------------------|
 | Enclose word with double quotes in normal mode                      | n    | "         | mmbi"<Esc>ea"<Esc>`m<Right>              |
@@ -65,16 +71,6 @@
 | LuaSnip: Change to the next choice from the choiceNode              | v    | <Plug>luasnip-next-choice |            |
 | LuaSnip: Expand the current snippet                                 | v    | <Plug>luasnip-expand-snippet |          |
 | LuaSnip: Expand or jump in the current snippet                      | v    | <Plug>luasnip-expand-or-jump |          |
-| LuaSnip: Repeat last node expansion                                 | v    | <Plug>luasnip-expand-repeat |          |
-| cmp.utils.keymap.set_map                                            | i    | <C-Y>     |                                          |
-| cmp.utils.keymap.set_map                                            | i    | <Down>    |                                          |
-| cmp.utils.keymap.set_map                                            | i    | <C-Space> |                                          |
-| cmp.utils.keymap.set_map                                            | i    | <C-P>     |                                          |
-| cmp.utils.keymap.set_map                                            | i    | <C-F>     |                                          |
-| cmp.utils.keymap.set_map                                            | i    | <C-B>     |                                          |
-| cmp.utils.keymap.set_map                                            | i    | <C-E>     |                                          |
-| cmp.utils.keymap.set_map                                            | i    | <C-N>     |                                          |
-| cmp.utils.keymap.set_map                                            | i    | <Up>      |                                          |
 | LuaSnip: Repeat last node expansion                                 | i    | <Plug>luasnip-expand-repeat |          |
 | LuaSnip: Removes current snippet from jumplist                      | i    | <Plug>luasnip-delete-check |            |
 | LuaSnip: Jump to the previous node                                  | i    | <Plug>luasnip-jump-prev |                |
