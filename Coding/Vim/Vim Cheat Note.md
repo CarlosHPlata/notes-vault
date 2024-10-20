@@ -7,7 +7,14 @@ GROUP BY type
 # Useful commands
 ```dataview
 TABLE vimCmd as "Command" FROM #vim
-WHERE vimCmd 
+where vimCmd
+```
+
+# Vim default keys
+```dataview
+TABLE vimKey as "key"
+FROM #vim 
+WHERE vimKey
 ```
 # Vim Keymaps
 

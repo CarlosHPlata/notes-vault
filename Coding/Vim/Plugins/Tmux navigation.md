@@ -5,7 +5,7 @@ tags:
   - vimplugin
 type: vim motion
 ---
-As the name suggest let you navigate between tmux panes and vim panes
+As the name suggest let you navigate between [[tmux]] panes and vim panes
 
 ## Keymaps
 

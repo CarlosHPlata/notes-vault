@@ -1,6 +1,8 @@
 ---
 tags:
   - vim
+  - Programming/topic
+language: Vim
 ---
 For plugins since I moved from my previous vim configuration I started using lua. [[Lua]] is a powerful language.
 

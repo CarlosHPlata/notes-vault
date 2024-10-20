@@ -12,6 +12,7 @@ providing instant feedback about compilation or language errors.
 
 this will let us see errors, suggestion to those errors, and also the documentation of the function we are using.
 ## Mason Plugin
+
 #Mason is package provides the #LSP parsers. You can use:
   (vimCmd::`:Mason`)
 to check and install LSP parsers.

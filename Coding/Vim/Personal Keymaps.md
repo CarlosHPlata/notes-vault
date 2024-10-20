@@ -2,6 +2,8 @@
 tags:
   - vimmaps
   - vim
+  - Programming/topic
+language: Vim
 ---
 here are all my personal keymaps. All of those mappings are mapped on the [[Vim Lua Configuration]]
 ## Add Semicolons

@@ -14,14 +14,3 @@ exmap back obcommand app:go-back
 nmap <C-o> :back<CR>
 exmap forward obcommand app:go-forward
 nmap <C-i> :forward<CR>
-
-
-exmap tnewrow obcommand editor:table-row-after
-nmap tnr :tnewrow<CR>
-exmap tnewcol obcommand editor:table-col-after
-nmap tnc :tnewcol<CR>
-
-exmap tdelrow obcommand editor:table-row-delete
-nmap tdr :tdelrow<CR>
-exmap tdelcol obcommand editor:table-col-delete
-nmap tdc :tdelcol<CR>
