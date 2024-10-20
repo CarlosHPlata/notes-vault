@@ -21,6 +21,6 @@ WHERE row.file.name != "Personal Keymaps"
 
 ## List of all My Personal mappings
 ```dataview
-TABLE vimDesc as "Map Description" FROM #vimmaps 
+TABLE vimDesc as "Map Description", vimKeymap as "keymap" FROM #vimmaps 
 WHERE row.file.name = "Personal Keymaps"
 ```
