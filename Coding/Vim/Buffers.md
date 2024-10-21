@@ -12,6 +12,8 @@ language: Vim
 
 ---
 
+>[!tip] A Buffer is an **im memory representation of a file opened**
+
 Buffers are the way VIM present the GUI. by default you are always in a buffer.
 Every time you run (vimCmd::`:e namefile` ) it will open a new buffer.
 
@@ -21,6 +23,12 @@ Every time you run (vimCmd::`:e namefile` ) it will open a new buffer.
 - You can list all the buffers with (vimCmd::`buffers`)
 - You can init an empty buffer with (vimCmd::`enew`)
 
+# 📃 Buffers 21-10-2024
+
+- A buffer is a view of a file system
+- A buffer is contained in a window.
+
+Buffers act as a view **per file** meaning that 2 windows opening the same file are viewing **the same buffer**.
 
 ## 📜 Notes and Ideas
 ---
