@@ -18,7 +18,7 @@ Tmux windows are a prowerfull tool for tmux, you can:
 - Go to new window by pressing `<leader>n`
 - rename a window by using `<leader>,`
 
-if you have installled catpuccin theme the windows will be presented at the top
+if you have installled catpuccin theme the windows will be presented at the top and you can click on them.
 
 # 📦 Resources
 ---
