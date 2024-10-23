@@ -17,7 +17,7 @@ tags: []
 # 📃 Todo list
 
 ```dataview
-TASK FROM "dailyNotes"
+TASK FROM "log"
 WHERE !completed
 ```
 
