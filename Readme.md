@@ -8,9 +8,11 @@ tags: []
 > Because Github automatically take the README as the file to show when checking the repository you dumb ass
 
 # 📃 Shopping List
-- [ ] tapas de empanada
-- [ ] regalo de Nahuel
+- [x] tapas de empanada
+- [x] regalo de Nahuel
 - [ ] regalo de vicky
+- [ ] Imprimir fotos para día de muertos
+- [ ] Comprar cosas para día de muertos 
 
 # 📃 Todo list
 
