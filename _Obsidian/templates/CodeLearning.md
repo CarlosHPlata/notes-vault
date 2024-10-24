@@ -12,9 +12,5 @@ language:
 ---
 
 
-# 📜 Notes and Ideas
----
-
-
-## 📦 Resources
+## 📦References 
 - 
