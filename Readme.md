@@ -40,7 +40,3 @@ WHERE language
 GROUP BY language
 SORT rows.file.ctime ASC
 ```
-
-```query
-tag: vim
-```

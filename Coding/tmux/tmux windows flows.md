@@ -8,6 +8,7 @@ created:
   - 2024-10-21 10:43
 language: tmux
 ---
+**Topics:** [[tmux]]
 # 📃 windows 21-10-2024
 
 ---

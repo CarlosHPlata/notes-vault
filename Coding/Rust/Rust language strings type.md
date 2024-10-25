@@ -73,6 +73,6 @@ Since the last point using **UTF-8** you cannot iterate over a string simply you
 
 > [!tip] But you don't worry all strings have helper functions.
 
-# 📦 Resources
+# 📦References 
 ---
-- 
+- [[Rust variables and types]]

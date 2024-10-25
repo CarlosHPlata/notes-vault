@@ -17,7 +17,6 @@ language: Rust
 | --------------- | ------------ |
 | u8 u16 ... u128 | unsigned int |
 | i8 i16 ... i128 | signed int   |
-|                 |              |
 
 ## Compound types
 There are multiple types of compound types
@@ -46,8 +45,4 @@ To access a member of an array use: `arr[0]` where `0` is the index of the array
 
 > [!faq] **Arrays have a maximum length of 32**
 
-# 📜 Notes and Ideas
----
-
-
-## 📦 Resources
+## 📦References 

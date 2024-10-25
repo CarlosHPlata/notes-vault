@@ -11,22 +11,22 @@ language: Rust
 
 ---
 ## Variables
-Rust have a lot of types of variables check [[Variables]] to see all the types of variables you can create.
+Rust have a lot of types of variables check [[Rust variables and types]] to see all the types of variables you can create.
 We learn about primitive types and compound types like tuples and arrays.
 
 ## Expressions
-Rust have the ability to do an if literal [[Ternary Conditions]]
+Rust have the ability to do an if literal [[Rust lang Ternary Conditions]]
 
 ## Loops
-I've also learned about [[loops]] with for loops, while, ranges and array.iter
+I've also learned about [[Rust language loops]] with for loops, while, ranges and array.iter
 
 ## Strings
-I've also captured something about [[strings]].
+I've also captured something about [[Rust language strings type]].
 
 
-# 📜 Notes and Ideas
 ---
-
-
 ## 📦 Resources
-- 
+- [[Rust variables and types]]
+- [[Rust lang Ternary Conditions]]
+- [[Rust language loops]]
+- [[Rust language strings type]]
