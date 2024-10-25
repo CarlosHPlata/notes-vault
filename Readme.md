@@ -36,3 +36,11 @@ WHERE language
 GROUP BY language
 SORT rows.file.ctime ASC
 ```
+
+## interesting books to start philosophy:
+
+Filosofía para Mentes Inquietas": https://amzn.to/4ebkT5J
+"Meditaciones" de Marco Aurelio: https://amzn.to/3z30cbR
+"El Mito de Sísifo" de Albert Camus: https://amzn.to/3KwtiDf
+"Meditaciones Metafísicas" de Descartes: https://amzn.to/3XahgXF
+"El Principe" de Maquiavelo: https://amzn.to/4ba1y2d

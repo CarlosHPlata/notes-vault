@@ -8,10 +8,10 @@ type: vim motion
 created:
   - 2024-10-25 21:51
 aliases:
-  - Coding
-language:
+  - Tmux navigation
+language: Vim
 ---
-**Topics:** [[tmux]], [[vim]]
+**Topics:** [[tmux]], [[vimplugins]]
 # 📃 Tmux navigation  25-10-2024
 
 ---
@@ -30,4 +30,5 @@ As the name suggest let you navigate between [[tmux]] panes and vim panes
 
 # 📦 References 
 ---
-- 
+- [[tmux]]
+- [[tmux windows flows]]
