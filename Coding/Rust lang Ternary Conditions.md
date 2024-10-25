@@ -9,7 +9,7 @@ created:
 language: Rust
 ---
 
-**Topics:**
+**Topics:** [[rust]]
 
 # 📃 Ternary Conditions 20-10-2024
 
@@ -43,10 +43,9 @@ msg = if num == 5 {
 
 > [!tip] You need the semicolon `[;]` at the end
 
-# 📜 Notes and Ideas
 
 ---
 
-## 📦 Resources
+## 📦References 
 
--
+- 

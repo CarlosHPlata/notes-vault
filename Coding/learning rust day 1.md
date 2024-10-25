@@ -9,7 +9,7 @@ created:
 language: Rust
 ---
 
-**Topics:**
+**Topics:** [[rust]]
 
 # 📃Rust day 1 20-10-2024
 

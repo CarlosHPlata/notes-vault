@@ -9,6 +9,7 @@ tags:
   - Programming/topic
 language: Vim
 ---
+**Topics:** [[vim]]
 # 📃 Understanding Vim Jump List 20-10-2024
 
 ---
@@ -42,5 +43,7 @@ You can move to a specific jump using letter (vimKey::`g`) preceded by a number
 
 ## 📜 Notes and Ideas
 - I think this is a re-topic of what markers are combined with what it can be done with the jumplist in general
-## 📦 Resources
+## 📦References 
 - https://medium.com/@kadek/understanding-vims-jump-list-7e1bfc72cdf0
+- [[vim motion day 1]]
+- [[learning vim motions 2]]

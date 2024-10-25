@@ -6,6 +6,7 @@ aliases:
 tags:
   - Programming/learning
   - vim
+  - new
 language: Vim
 ---
 # 📃 learning motions 2  24-10-2024

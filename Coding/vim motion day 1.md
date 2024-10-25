@@ -5,6 +5,7 @@ aliases:
   - Coding
 tags:
   - Programming/learning
+  - new
 language: Vim
 ---
 # 📃 vim motion day 1  21-10-2024
@@ -34,10 +35,10 @@ Move around using `f` or `F` or `t` or `T`
 
 >[!tip] super tip you can use `;` to repeat the movement 
 
-Check expanded knowledge about [[Buffers]]
+Check expanded knowledge about [[Vim Buffers]]
 
 ## Vertical moving
-You can move by paragraph with `{` check this: [[Jump List]]
+You can move by paragraph with `{` check this: [[Vim jump List]]
 
 The best way to move in the opinion of the author *ThePrimaegen* is using `Ctrl + d` or `Ctrl + u`
 in fact he has mapped as:

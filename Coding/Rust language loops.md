@@ -9,7 +9,7 @@ created:
 language: Rust
 ---
 
-**Topics:**
+**Topics:** [[rust]]
 
 # 📃 Loops 20-10-2024
 

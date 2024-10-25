@@ -7,9 +7,15 @@ tags:
   - Programming/topic
 language: Vim
 ---
-
+**Topics:** [[vim]], [[vimplugins]]
 here are all my personal keymaps. All of those mappings are mapped on the [[Vim Lua Configuration]]
 
+>[!faq] **THIS MAY BE OUTDATED INSTEAD OF THIS CHECK THE NEXT**
+
+ - use `:map` in vim
+ - [check my own cheatset plugin for neovim](https://github.com/CarlosHPlata/vimconfig/blob/main/luavim/lua/personal/mappings/my_own_plugin.lua)
+
+---
 ## Add Semicolons
 
 > [!tip] **File**: `add_semicolons.lua`

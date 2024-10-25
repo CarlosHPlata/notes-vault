@@ -23,19 +23,15 @@ WHERE !completed
 
 # 👩🏻‍💻 Coding
 
-## Topics captured
-
+## Indexes
 ```dataview
-LIST rows.file.link FROM #Programming/topic
-WHERE language
-GROUP BY language
+LIST FROM #Topic and #Programming 
 ```
-
-## learnings lessons
+## Untreated learning notes
 
 ```dataview
 LIST rows.file.link
-FROM #Programming/learning
+FROM #Programming/learning and #new
 WHERE language
 GROUP BY language
 SORT rows.file.ctime ASC

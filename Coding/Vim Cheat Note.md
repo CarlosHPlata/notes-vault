@@ -1,3 +1,9 @@
+---
+tags:
+  - Programming/topic
+language: Vim
+---
+**Topics:** [[vim]] [[vimplugins]]
 # Vim Plugins
 **Here a section of all my installed plugins:**
 ```dataview

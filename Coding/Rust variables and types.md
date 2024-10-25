@@ -9,7 +9,7 @@ created:
 language: Rust
 ---
 
-**Topics:**
+**Topics:** [[rust]]
 
 # 📃 Rust variables 20-10-2024
 

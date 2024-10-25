@@ -9,6 +9,4 @@ tags:
 
 ---
 
-## 1️⃣ - Sorted Links
-
-- File link
+## 1️⃣ Quick {{title}} topics 

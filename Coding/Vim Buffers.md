@@ -8,6 +8,7 @@ tags:
   - Programming/topic
 language: Vim
 ---
+**Topics:** [[vim]]
 # 📃 Buffers 20-10-2024
 
 ---
@@ -35,5 +36,6 @@ Buffers act as a view **per file** meaning that 2 windows opening the same file 
 
 If you have installed [[Coding/Vim/Plugins/Telescope|Telescope]] it will help you to navigate through buffers
 
-## 📦 Resources
-- 
+## 📦References 
+- [[Telescope]]
+- [[tmux]]
