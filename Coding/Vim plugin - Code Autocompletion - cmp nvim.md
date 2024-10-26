@@ -6,7 +6,7 @@ type: lsp
 ---
 > [!tip] **file:** `auto_completion.lua`
 
-> [!faq]- Warning: For this to work first you have to install what is in [[LSP Configurations and formatting - Mason]]
+> [!faq]- Warning: For this to work first you have to install what is in [[Vim plugin - LSP Configurations and formatting - Mason]]
 
 Auto completion is magnificent tool it uses built in #LSP for this we will require multiple plugins
 

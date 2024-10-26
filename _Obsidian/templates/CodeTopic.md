@@ -2,7 +2,7 @@
 created:
   - "{{date}} {{time}}"
 aliases:
-  - Coding
+  - "{{title}} {{date: DD-MM-YYYY}}"
 tags:
   - Programming/topic
 language:

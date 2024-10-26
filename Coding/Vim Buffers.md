@@ -34,8 +34,11 @@ Buffers act as a view **per file** meaning that 2 windows opening the same file 
 ## 📜 Notes and Ideas
 ---
 
-If you have installed [[Coding/Vim/Plugins/Telescope|Telescope]] it will help you to navigate through buffers
+If you have installed [[Vim plugin - Telescope|Vim plugin - Telescope]] it will help you to navigate through buffers
 
 ## 📦References 
-- [[Telescope]]
+- [[Vim plugin - Telescope]]
 - [[tmux]]
+- [[Vim jump List paragraphs and block jumps]]
+- [[VIm Personal Keymaps]]
+- [[Vim plugin - Tmux navigation]]

@@ -101,3 +101,6 @@ for num in 0..=10 {
   //do stuff until 10 inclusive
 }
 ```
+
+## References
+- [[Rust variables and types]]

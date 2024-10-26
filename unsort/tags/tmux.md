@@ -2,7 +2,7 @@
 created:
   - 2024-10-20 22:20
 aliases:
-  - Coding
+  - tmux
 tags:
   - Topic
   - Programming

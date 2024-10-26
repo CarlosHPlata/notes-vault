@@ -9,9 +9,9 @@ tags:
 # vim Index
 ---
 ## Important links
-- [[vimplugins]]
-- [[Personal Keymaps]]
+- [[vimplugins | Vim Plugins]]
 - [[Vim Cheat Note]]
+- [[VIm Personal Keymaps]]
 ## 1️⃣ Quick vim topics 
 ```dataview
 LIST FROM #Programming/topic 

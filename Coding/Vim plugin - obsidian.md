@@ -7,7 +7,7 @@ tags:
   - vimplugin
 created:
   - 2024-10-22 12:32
-language: Vim
+language: 
 type: obsidian
 ---
 
@@ -24,8 +24,8 @@ Obsidian nvim is a plugin designed for NeoVim that allow you to run obsidian act
 
 ### Create a note
 
-- `:ObsidianFromtemplate [TITLE]` to create a new note from a template in the templates folder, it will pop up [[Telescope|telescope]].
-- `:ObsidianSearch [Name]` to search for or create notes in your vault using `ripgrep` and [[Telescope|telescope]]
+- `:ObsidianFromtemplate [TITLE]` to create a new note from a template in the templates folder, it will pop up [[Vim plugin - Telescope|telescope]].
+- `:ObsidianSearch [Name]` to search for or create notes in your vault using `ripgrep` and [[Vim plugin - Telescope|telescope]]
 - `:ObsidianNew [TITLE]` To open a new note in obsidian.
 - `:Obsidiantoday [OFFSET]` for opening or create today's note, or if `offset` it will create that day note.
 - `:ObsidianYesterday` to go to the yesterday's note
@@ -34,22 +34,22 @@ Obsidian nvim is a plugin designed for NeoVim that allow you to run obsidian act
 
 ### Movement
 
-- `:ObsidianQuickSwitch` to quickly switch to (or open) another note in your vault, _Note: is better to use [[Telescope|telescope]]_, it has it's integration with the plugin.
+- `:ObsidianQuickSwitch` to quickly switch to (or open) another note in your vault, _Note: is better to use [[Vim plugin - Telescope|telescope]]_, it has it's integration with the plugin.
 - `:ObsidianFollowLink [vsplit|hsplit]` To follow a note backlink under the cursor, _Note: I already mapped `<leader>gf`_
-- `:ObsidianTags [TAG ...]` for getting a picker list of all ocurrences of the fiven tags, _it open [[Telescope|telescope]]_
-- `:ObsidianDailies [OFFSET...]` to open a picker list of daily notes for example `:ObsidianDailies -2 1` will open a list of daily notes from 2 days ago until tomorrow, _it will use [[Telescope|telescope]]_
+- `:ObsidianTags [TAG ...]` for getting a picker list of all ocurrences of the fiven tags, _it open [[Vim plugin - Telescope|telescope]]_
+- `:ObsidianDailies [OFFSET...]` to open a picker list of daily notes for example `:ObsidianDailies -2 1` will open a list of daily notes from 2 days ago until tomorrow, _it will use [[Vim plugin - Telescope|telescope]]_
 
 ### Templates
 
 - `:ObsidianTemplate [NAME]` to insert the template into the current note
-- `:ObsidianFromtemplate [TITLE]` to create a new note from a template in the templates folder, it will pop up [[Telescope|telescope]].
+- `:ObsidianFromtemplate [TITLE]` to create a new note from a template in the templates folder, it will pop up [[Vim plugin - Telescope|telescope]].
 
 ### Other commands
 
-- `:ObsidianBackLinks` for getting a picker list of references to the current buffer, _it open [[Telescope|telescope]]_
+- `:ObsidianBackLinks` for getting a picker list of references to the current buffer, _it open [[Vim plugin - Telescope|telescope]]_
 - `:ObsidianLink [Query]` to link an inline visual selection of a text to a note.
 - `:ObsidianLinkNew [Title]` to create a new note and link it to an inline visual selection of text.
-- `:ObsidianLinks` to collect all links within the current buffer into a picker [[Telescope|telescope]].
+- `:ObsidianLinks` to collect all links within the current buffer into a picker [[Vim plugin - Telescope|telescope]].
 - `:ObsidianWorkspace [Title]` To switch to another workspace or vault.
 - `:ObsidianPasteImg [Imgname]` to paste an image from the clipboard into the note at the cursor position.
 - `:ObsidianRename [NEWNAME] [--dry-run]` to rename the note of the current buffer or reference under the cursor, updating all backlinks across the vault.

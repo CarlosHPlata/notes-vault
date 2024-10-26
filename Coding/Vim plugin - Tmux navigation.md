@@ -9,7 +9,7 @@ created:
   - 2024-10-25 21:51
 aliases:
   - Tmux navigation
-language: Vim
+language:
 ---
 **Topics:** [[tmux]], [[vimplugins]]
 # 📃 Tmux navigation  25-10-2024

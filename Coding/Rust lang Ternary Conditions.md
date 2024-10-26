@@ -48,4 +48,4 @@ msg = if num == 5 {
 
 ## 📦References 
 
-- 
+- [[Rust variables and types]]

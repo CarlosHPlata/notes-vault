@@ -27,6 +27,10 @@ WHERE !completed
 ```dataview
 LIST FROM #Topic and #Programming 
 ```
+## Topics to cover
+```dataview
+LIST from #todo 
+```
 ## Untreated learning notes
 
 ```dataview

@@ -2,6 +2,7 @@
 tags:
   - vim
   - vimplugin
+  - todo
 type: lsp
 ---
 >[!tip] **File:** `treesitter.lua`

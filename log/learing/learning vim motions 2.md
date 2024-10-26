@@ -6,7 +6,6 @@ aliases:
 tags:
   - Programming/learning
   - vim
-  - new
 language: Vim
 ---
 # 📃 learning motions 2  24-10-2024
@@ -16,7 +15,7 @@ language: Vim
 
 Now it's have to read very sexy vertical movements
 
-- Get use to the `relative numbers` you idiot, also always use `<C-u>` and `<C-d>`
+- Get use to the `relative numbers` you idiot, also always use `<C-u>` and `<C-d>` [[Vim basic vertical moving]]
 - Another cool way to move around is using the `%` symbol it will let you move to the closing bracket no matter where in the line is.
     - you can make a combo like `v%d` to delete everything between two brackets for example as long as your cursor is in the beginning bracket
 - Another cool tip is the `=` which will make the things auto ident based on the LSP.
@@ -28,6 +27,7 @@ Now it's have to read very sexy vertical movements
 
 ## Find & Replace
 Now we will talk about the damn replace
+[[Vim find and replace]]
 
 **FIND**
 - You can search for all occurrences of the word under the cursor by pressing `*`

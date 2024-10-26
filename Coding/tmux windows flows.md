@@ -1,7 +1,7 @@
 ---
 id: windows
 aliases:
-  - Coding
+  - tmux windows flows
 tags:
   - Programming/topic
 created:
@@ -21,7 +21,7 @@ Tmux windows are a prowerfull tool for tmux, you can:
 
 if you have installled catpuccin theme the windows will be presented at the top and you can click on them.
 
-# 📦 Resources
+# 📦References 
 ---
-- 
-
+- [[tmux]]
+- [[Vim plugin - Tmux navigation]]

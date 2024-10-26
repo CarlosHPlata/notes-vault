@@ -13,7 +13,7 @@ created:
 
 Obsidian NVIM is a new feature that can be added to nvim, mostly I use it at work since they didn't let met install the obsidian app in the computer.
 
-Check [[Vim obsidian plugin]] plugin for more information.
+Check [[Vim plugin - obsidian]] plugin for more information.
 
 
 # 📦 Resources

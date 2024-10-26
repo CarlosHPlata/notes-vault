@@ -7,13 +7,13 @@ type: lsp
 ---
 > [!tip] **File:** `linter-and_formatter.lua`
 
-> [!faq]- Warning: For this to work first you have to install what is in [[LSP Configurations and formatting - Mason]]
+> [!faq]- Warning: For this to work first you have to install what is in [[Vim plugin - LSP Configurations and formatting - Mason]]
 
 this will make your life easier, is just a linter integrated with vim it also does auto indentation is best than the old CoC that was difficult to configure.
 Check here:
     https://github.com/nvimtools/none-ls.nvim
 
-If you are using #Mason you can install first the formatters and linters (Mason is installed from the [[LSP Configurations and formatting - Mason]] file, no need to add it)
+If you are using #Mason you can install first the formatters and linters (Mason is installed from the [[Vim plugin - LSP Configurations and formatting - Mason]] file, no need to add it)
 
 add diagnostics like:
   null_ls.builtins.diagnostics.stylua
