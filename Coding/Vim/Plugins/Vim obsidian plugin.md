@@ -11,6 +11,7 @@ language: Vim
 type: obsidian
 ---
 
+**Topics:** [[vimplugins]]
 # 📃 obsidian 2024-10-22
 
 ---
