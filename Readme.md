@@ -17,7 +17,7 @@ tags: []
 # 📃 Todo list
 
 ```dataview
-TASK FROM "log"
+TASK FROM "1-log"
 WHERE !completed
 ```
 
@@ -37,7 +37,7 @@ LIST from #todo
 LIST WITHOUT ID file.link 
   + choice(language != null, " - " + language, "")
 FROM  #new
-WHERE regexmatch("general/.*/.*", file.path) = true
+WHERE regexmatch("2-general/.*/.*", file.path) = true
 SORT rows.file.ctime ASC
 ```
 
