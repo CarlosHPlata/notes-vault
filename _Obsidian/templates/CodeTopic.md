@@ -5,14 +5,15 @@ aliases:
   - "{{title}} {{date: DD-MM-YYYY}}"
 tags:
   - Programming/topic
-language:
+language: <% tp.system.prompt("The programming language") %>
 ---
 
-**Topics:**
+**Topics:** <% tp.file.cursor() %>
 
 # 📃 {{title}} {{date: DD-MM-YYYY}}
 
 ---
+<% tp.file.cursor %>
 
 # 📦 References
 

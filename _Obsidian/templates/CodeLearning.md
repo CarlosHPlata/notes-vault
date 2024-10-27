@@ -1,17 +1,16 @@
 ---
 created:
   - "{{date}} {{time}}"
-aliases:
-  - Coding
+aliases: [<% tp.file.title %> <% tp.file.creation_date("DD-MM-YYYY") %>]
 tags:
   - Programming/learning
   - "#new"
-language:
+language: <% tp.system.prompt("Type the programming language") %>
 ---
 # 📃 {{title}} {{date: DD-MM-YYYY}}
 
 ---
-
+<% tp.file.cursor() %>
 
 ## 📦References 
 - 

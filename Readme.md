@@ -21,23 +21,23 @@ TASK FROM "log"
 WHERE !completed
 ```
 
-# 👩🏻‍💻 Coding
+# 👩🏻‍💻Indexes 
 
-## Indexes
+## Coding 
 ```dataview
 LIST FROM #Topic and #Programming 
 ```
-## Topics to cover
+# Topics to expand 
 ```dataview
 LIST from #todo 
 ```
-## Untreated learning notes
+# Untreated notes
 
 ```dataview
-LIST rows.file.link
-FROM #Programming/learning and #new
-WHERE language
-GROUP BY language
+LIST WITHOUT ID file.link 
+  + choice(language != null, " - " + language, "")
+FROM  #new
+WHERE regexmatch("general/.*/.*", file.path) = true
 SORT rows.file.ctime ASC
 ```
 
