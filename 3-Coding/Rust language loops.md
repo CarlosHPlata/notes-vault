@@ -6,7 +6,7 @@ tags:
   - Programming/topic
 created:
   - 2024-10-20 23:27
-language: Rust
+language: rust
 ---
 
 **Topics:** [[rust]]

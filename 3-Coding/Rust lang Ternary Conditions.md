@@ -6,7 +6,7 @@ tags:
   - Programming/topic
 created:
   - 2024-10-20 23:20
-language: Rust
+language: rust
 ---
 
 **Topics:** [[rust]]
@@ -49,3 +49,4 @@ msg = if num == 5 {
 ## 📦References 
 
 - [[Rust variables and types]]
+- [[Rust - Implicit return]]

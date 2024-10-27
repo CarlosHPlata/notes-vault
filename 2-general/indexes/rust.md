@@ -13,5 +13,5 @@ tags:
 ## 1️⃣ Quick Rust topics
 ```dataview
 LIST FROM #Programming/topic 
-WHERE language = "Rust"
+WHERE language = "rust"
 ```

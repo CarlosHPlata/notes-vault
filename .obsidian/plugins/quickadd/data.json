@@ -5,7 +5,7 @@
       "name": "Add - Coding topic",
       "type": "Template",
       "command": true,
-      "templatePath": "_Obsidian/templates/CodeTopic.md",
+      "templatePath": "_Obsidian/templates/None.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{value}}"
@@ -14,6 +14,38 @@
         "enabled": true,
         "folders": [
           "3-Coding"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "58347d0b-f1a6-4bc8-ae5b-314fba2deaa5",
+      "name": "Add - fleeting",
+      "type": "Template",
+      "command": true,
+      "templatePath": "_Obsidian/templates/None.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}} {{DATE:}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "2-general/fleeting",
+          "2-general/learning",
+          "2-general/literature"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,

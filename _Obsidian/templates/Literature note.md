@@ -3,15 +3,14 @@ tags:
   - literature/note
   - "#new"
 created:
-  - "{{date}} {{time}}"
+  - <%tp.file.creation_date()%>
 ---
-# 📕 <% tp.file.title %> <% tp.file.creation_date("DD-MM-YYYY") %>
+# 📕 <% tp.file.title %>
 
 ## 🔥 Review
-<% tp.file.cursor(2) %>
 
 ## 🧾 Notes
-<% tp.file.cursor(3) %>
+<% tp.file.cursor(2) %>
 
 ## Start review
 ```meta-bind-button

@@ -6,7 +6,7 @@ tags:
   - Programming/topic
 created:
   - 2024-10-20 23:06
-language: Rust
+language: rust
 ---
 
 **Topics:** [[rust]]
@@ -57,3 +57,5 @@ To access a member of an array use: `arr[0]` where `0` is the index of the array
 > [!faq] **Arrays have a maximum length of 32**
 
 ## 📦References
+- [[Rust - Memory - The Stack]]
+- [[Rust - Memory management Stack and Heap]]

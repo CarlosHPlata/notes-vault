@@ -6,7 +6,7 @@ tags:
   - Programming/topic
 created:
   - 2024-10-20 23:55
-language: Rust
+language: rust
 ---
 
 **Topics:** [[rust]]
@@ -94,3 +94,5 @@ Since the last point using **UTF-8** you cannot iterate over a string simply you
 ---
 
 - [[Rust variables and types]]
+- [[Rust - Memory - The Heap]]
+- [[Rust - Memory management Stack and Heap]]
