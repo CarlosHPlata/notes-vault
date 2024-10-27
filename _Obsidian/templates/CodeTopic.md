@@ -13,7 +13,7 @@ language: <% tp.system.prompt("The programming language") %>
 # 📃 {{title}} {{date: DD-MM-YYYY}}
 
 ---
-<% tp.file.cursor %>
+<% tp.file.cursor() %>
 
 # 📦 References
 
