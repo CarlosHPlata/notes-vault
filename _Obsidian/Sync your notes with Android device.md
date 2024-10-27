@@ -11,9 +11,9 @@ Step 2: If you are using ssh, either clone the repo into a different folder via 
 
 2.2. Change the remote to https
 
+```cmd
 $ cd ~/Notes-https
 $ git remote -v
-```cmd
 origin  git@github.com:OWNER/REPOSITORY.git (fetch)
 origin  git@github.com:OWNER/REPOSITORY.git (push)
 
