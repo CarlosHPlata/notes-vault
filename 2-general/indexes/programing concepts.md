@@ -3,6 +3,7 @@ aliases:
   - programing concepts
 tags:
   - Topic
+  - "#Programming"
 ---
 
 # programing concepts Index
