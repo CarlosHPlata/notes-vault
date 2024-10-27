@@ -7,6 +7,7 @@ tags: []
 > [!tip] Why this file is named README you idiot?
 > Because Github automatically take the README as the file to show when checking the repository you dumb ass
 
+This worked
 # 📃 Shopping List
 - [x] tapas de empanada
 - [x] regalo de Nahuel
