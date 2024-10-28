@@ -15,7 +15,7 @@ language: rust
 ---
 > The stack is fast, and is where memory is normally allocated by rust, is based on a stack of course. And the data is local on the context to a function call. *is limited on size*.
 
-Stack is like any other stack in any other software, that's the basic structure that it uses to. Rust uses a stack to allocate values from function calls.
+Stack is like any other stack in any other software, that's the basic structure that it uses to. Rust uses a stack to allocate values from function calls or [[General - Scope | Scope]].
 
 The stack is an array of bytes that your computer left Rust use, normally is mapped from the **Memory Ram** of your computer.
 So for example if your computer has *1 GB* of memory then it will provide an array of *2^30* bytes.
