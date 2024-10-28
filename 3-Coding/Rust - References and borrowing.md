@@ -5,7 +5,6 @@ aliases:
   - References and borrowing 27-10-2024
 tags:
   - Programming/topic
-  - todo
 language: rust
 ---
 
