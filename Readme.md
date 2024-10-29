@@ -13,7 +13,11 @@ This worked
 - [x] regalo de Nahuel
 - [ ] regalo de vicky
 - [ ] Imprimir fotos para día de muertos
-- [ ] Comprar cosas para día de muertos 
+- [ ] Comprar cosas para día de muertos
+- [ ] comprar flores 
+- [ ] cerveza
+- [ ] vino
+- [ ] pan dulce
 
 # 📃 Todo list
 
