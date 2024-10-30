@@ -12,9 +12,9 @@ This worked
 - [x] tapas de empanada
 - [x] regalo de Nahuel
 - [ ] regalo de vicky
-- [ ] Imprimir fotos para día de muertos
-- [ ] Comprar cosas para día de muertos
-- [ ] comprar flores 
+- [x] Imprimir fotos para día de muertos
+- [x] Comprar cosas para día de muertos
+- [x] comprar flores 
 - [ ] cerveza
 - [ ] vino
 - [ ] pan dulce
