@@ -6,6 +6,7 @@ aliases:
 tags:
   - Programming/topic
   - "#todo"
+  - Rust/trait
 language: rust
 ---
 
@@ -20,4 +21,4 @@ language: rust
 
 ---
 
--<% tp.file.cursor(2) %>
+- [[Rust - Traits]]

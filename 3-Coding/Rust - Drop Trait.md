@@ -5,6 +5,7 @@ aliases:
   - Drop Trait 27-10-2024
 tags:
   - Programming/topic
+  - Rust/trait
 language: rust
 ---
 
@@ -18,5 +19,5 @@ language: rust
 # 📦 References
 
 ---
-
+- [[Rust - Traits]]
 - [Rust docs](https://doc.rust-lang.org/std/ops/trait.Drop.html#tymethod.drop)

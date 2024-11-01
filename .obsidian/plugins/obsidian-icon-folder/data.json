@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBookOpenText",
       "LiBook",
       "LiNotebookText",
       "LiHash",
-      "LiActivity",
-      "LiUserPen"
+      "LiActivity"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,6 @@
   "2-general/fleeting": "LiActivity",
   "2-general/indexes": "LiHash",
   "2-general/learning": "LiNotebookText",
-  "2-general/literature": "LiBook"
+  "2-general/literature": "LiBookOpenText",
+  "2-general/Books": "LiBook"
 }
