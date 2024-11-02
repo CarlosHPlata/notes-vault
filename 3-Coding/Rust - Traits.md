@@ -27,4 +27,5 @@ List from #Rust/trait
 
 ---
 
--<% tp.file.cursor(2) %>
+- [[Rust - Structs]]
+- [[Rust - Implementation Block for Structs|Rust - Impl]]

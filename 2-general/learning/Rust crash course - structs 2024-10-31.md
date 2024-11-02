@@ -1,10 +1,10 @@
 ---
 created:
   - 2024-10-31 21:57
-aliases: [Rust crash course - structs 2024-10-31]
+aliases:
+  - Rust crash course - structs 2024-10-31
 tags:
   - Programming/learning
-  - "#new"
 language: rust
 ---
 ```meta-bind-button
@@ -67,7 +67,7 @@ fn main() {
 >Note that the struct update syntax uses `=` like an assignment; this is because it moves the data, just as we saw in the [“Variables and Data Interacting with Move”](https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html#variables-and-data-interacting-with-move) section. In this example, we can no longer use `user1` as a whole after creating `user2`
 [[Rust - Structs]][[Rust - Spread operator on Structs]]
 
-[[Rust - Passing variables with same name to Structs]][[Rust - Tuple Structs]][[Unit-Like Structs]][[Inheritance]][[Rust - Implementation Keyword for Structs]][[Rust - Traits]]
+[[Rust - Passing variables with same name to Structs]][[Rust - Tuple Structs]][[Unit-Like Structs]][[Inheritance]][[Rust - Implementation Block for Structs]][[Rust - Traits]]
 ```rust
 fn build_user(email: String, username: String) -> User {
     User {
@@ -80,6 +80,18 @@ fn build_user(email: String, username: String) -> User {
 ```
 
 - Structs are just the definition, to declare methods you have to use the `impl` keyword
+>methods are defined within the context of a struct (or an enum or a trait object, which we cover in [Chapter 6](https://doc.rust-lang.org/book/ch06-00-enums.html) and [Chapter 17](https://doc.rust-lang.org/book/ch17-02-trait-objects.html), respectively), and their first parameter is always `self`
+
+> Everything within this `impl` block will be associated with the `Rectangle` type.
+
+> Within an `impl` block, the type `Self` is an alias for the type that the `impl` block is for.
+
+> we still need to use the `&` in front of the `self` shorthand to indicate that this method borrows the `Self` instance
+
+> Having a method that takes ownership of the instance by using just `self` as the first parameter is rare
+
+> Note that we can choose to give a method the same name as one of the struct’s fields
+
 ```rust
 impl StructName {
   fn new() -> Self { 

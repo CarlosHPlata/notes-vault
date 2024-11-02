@@ -19,7 +19,7 @@
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
       },
-      "appendLink": true,
+      "appendLink": false,
       "openFileInNewTab": {
         "enabled": true,
         "direction": "vertical",

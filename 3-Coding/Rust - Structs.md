@@ -3,6 +3,7 @@ created:
   - 2024-11-01 00:00
 aliases:
   - Structs 01-11-2024
+  - Rust - Classes
 tags:
   - Programming/topic
 language: rust
@@ -57,7 +58,7 @@ This is not the only way of declaring a struct, it exists two additional types o
 - [[Rust - Unit-Like Structs | unit like structs]]
 
 ## Declaring methods to a struct
-Structs are meant to be only properties, in order to declare methods we have to use the keyword [[Rust - Implementation Keyword for Structs| Implementation Keyword]]
+Structs are meant to be only properties, in order to declare methods we have to use the keyword [[Rust - Implementation Block for Structs| Implementation Keyword]]
 
 # 📦 References
 
@@ -65,7 +66,7 @@ Structs are meant to be only properties, in order to declare methods we have to 
 - [[Rust crash course - structs 2024-10-31]]
 - [[Rust - Tuple Structs]]
 - [[Rust - Unit-Like Structs]]
-- [[Rust - Implementation Keyword for Structs]]
+- [[Rust - Implementation Block for Structs]]
 - [[Rust - Traits]]
 - [[Rust - Inheritance]]
 - [[Rust - Ownership]]
