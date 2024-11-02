@@ -59,8 +59,14 @@ Let's see how it looks in the stack:
 
 We call this action of creating and passing a reference **BORROWING**.
 
-## Other topics
+## Mutable references
+The previous reference is an inmutable reference meaning: **they serve only to read data not to modify it.**
+If we want to modify the data of the reference we will have to use a mutable reference.
+
+Check more here:
 - [[Rust - Mutable references]]
+
+## Reference restrictions 
 - [[Rust - Restriction on the types of references]]
 
 # 📦 References

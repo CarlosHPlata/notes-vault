@@ -15,9 +15,9 @@ This worked
 - [x] Imprimir fotos para día de muertos
 - [x] Comprar cosas para día de muertos
 - [x] comprar flores 
-- [ ] cerveza
-- [ ] vino
-- [ ] pan dulce
+- [x] cerveza
+- [x] vino
+- [x] pan dulce
 
 # 📃 Todo list
 

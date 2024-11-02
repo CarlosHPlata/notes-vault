@@ -35,6 +35,8 @@ fn main() {
 
 The variable `x` is valid from the line 2 until the end of the scope of the function `main`.
 
+## Transferring ownership 
+
 Normally [[Rust variables and types | Scalar types]] can be copied around when we assign them between variables. let's take for example this:
 
 ```rust

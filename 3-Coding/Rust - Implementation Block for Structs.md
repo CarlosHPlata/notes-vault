@@ -7,7 +7,6 @@ aliases:
   - Rust - Methods
 tags:
   - Programming/topic
-  - todo
 language: rust
 ---
 **Topics:** [[rust]]

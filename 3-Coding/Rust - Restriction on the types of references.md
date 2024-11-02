@@ -15,7 +15,7 @@ language: rust
 # 📃 Restriction on the types of references 28-10-2024
 
 ---
-There are several restrictions when we are talking about references. This are the ones:
+There are several restrictions when we are talking about references. Here are they:
 - **References must be always valid**
 - **An either given time you can have exactly one mutable reference and nothing else**
 - **If you don't have mutable reference you can have as many immutable references as you want**
