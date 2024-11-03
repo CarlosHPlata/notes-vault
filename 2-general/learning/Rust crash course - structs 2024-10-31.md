@@ -65,9 +65,7 @@ fn main() {
 >  The `..user1` must come last to specify that any remaining fields should get their values from the corresponding fields in `user1`
 
 >Note that the struct update syntax uses `=` like an assignment; this is because it moves the data, just as we saw in the [“Variables and Data Interacting with Move”](https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html#variables-and-data-interacting-with-move) section. In this example, we can no longer use `user1` as a whole after creating `user2`
-[[Rust - Structs]][[Rust - Spread operator on Structs]]
 
-[[Rust - Passing variables with same name to Structs]][[Rust - Tuple Structs]][[Unit-Like Structs]][[Inheritance]][[Rust - Implementation Block for Structs]][[Rust - Traits]]
 ```rust
 fn build_user(email: String, username: String) -> User {
     User {

@@ -1,21 +1,49 @@
 ---
 id: Rust language strings type
-aliases:
-  - Coding
+aliases: []
 tags:
   - Programming/topic
 created:
   - 2024-10-20 23:55
 language: rust
 ---
-
 **Topics:** [[rust]]
 
 # 📃 strings 20-10-2024
 
 ---
 
-There are **6** types of string definitions, but we have to worry about **2**
+There are **6** types of string definitions, but we have to worry about **2**:
+- String literals AKA **String Slice**
+- **String** type from the supported Struct.
+
+>[!tip] To understand this is better to known [[Rust - Memory management Stack and Heap]] and to understand [[Rust - Slices]]
+> That's because the **String Literals** are literally a slice of the **String** type.
+### String
+
+The biggest difference between both is that the borrowed string slice can't be modified.
+You will always get a `string` from a **borrowed string slice** by using `to_string`
+
+```rust
+let msg = "Hello".to_string()
+```
+
+Or by passing the **borrowed string slice** to the String constructor:
+
+```rust
+let msg = String::from("Hello")
+```
+
+A borrowed string slice is internally made up of a pointer of some bytes, a length and a capacity:
+
+```
+&str
+ptr -> [H, E, L, L, O]
+len -> 4
+capacity -> 8
+```
+
+A **borrowed string slice** is a subset of **string**
 
 ### string slice
 
@@ -46,32 +74,6 @@ A borrowed string slice is internally made up of a pointer of some bytes and a l
 ptr -> [H, E, L, L, O]
 len -> 4
 ```
-
-### String
-
-The biggest difference between both is that the borrowed string slice can't be modified.
-You will always get a `string` from a **borrowed string slice** by using `to_string`
-
-```rust
-let msg = "Hello".to_string()
-```
-
-Or by passing the **borrowed string slice** to the String constructor:
-
-```rust
-let msg = String::from("Hello")
-```
-
-A borrowed string slice is internally made up of a pointer of some bytes, a length and a capacity:
-
-```
-&str
-ptr -> [H, E, L, L, O]
-len -> 4
-capacity -> 8
-```
-
-A **borrowed string slice** is a subset of **string**
 
 ### Encoding
 

@@ -104,7 +104,7 @@ fn give_and_back_ownership(some_string: String){
 
 See: [[Rust - Implicit return| Implicit return]]
 ## References and borrowing:
-- [1] better to see [[Rust - References and borrowing| References and borrowing]]
+better to see [[Rust - References and borrowing| References and borrowing]]
 # 📦 References
 
 ---
