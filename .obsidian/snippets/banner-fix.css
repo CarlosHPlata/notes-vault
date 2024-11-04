@@ -1,0 +1,13 @@
+.mod-header {
+  position: relative;
+  z-index: 999;
+}
+
+.obsidian-banner {
+  position: absolute;
+  z-index: 0;
+}
+
+.obsidian-banner-wrapper {
+  margin-top: 0;
+}

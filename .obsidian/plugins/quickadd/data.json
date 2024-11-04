@@ -13,7 +13,8 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "3-Coding"
+          "3-Coding",
+          "4-personal"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,

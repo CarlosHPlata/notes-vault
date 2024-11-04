@@ -11,12 +11,16 @@
   "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
-  "user_scripts_folder": "",
+  "user_scripts_folder": "_Obsidian/scripts",
   "enable_folder_templates": true,
   "folder_templates": [
     {
       "folder": "3-Coding",
-      "template": "_Obsidian/templates/CodeTopic.md"
+      "template": "_Obsidian/templates/Topic.md"
+    },
+    {
+      "folder": "4-personal",
+      "template": "_Obsidian/templates/Topic.md"
     },
     {
       "folder": "2-general/literature",
