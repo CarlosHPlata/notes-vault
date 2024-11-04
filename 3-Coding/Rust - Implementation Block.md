@@ -11,10 +11,12 @@ language: rust
 ---
 **Topics:** [[rust]]
 
-# 📃 Implementation block for Structs 01-11-2024
+# 📃 Implementation block 01-11-2024
 
 ---
-[[Rust - Structs|Structs]] are just definitions of properties for a given type. if we want to implement **methods** we have to combine them with the `impl` block.
+[[Rust - Structs|Structs]] and [[Rust - Enums|Enums]] are just definitions of properties for a given type. if we want to implement **methods** we have to combine them with the `impl` block.
+
+> [!tip] yes you read it right, you can define methods for **Enums**.
 
 Let's take for example the next piece of code:
 ```rust

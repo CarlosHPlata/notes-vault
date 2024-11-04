@@ -21,5 +21,5 @@ language: rust
 ---
 - [[Rust - Traits]]
 - [[Rust - Structs]]
-- [[Rust - Implementation Block for Structs|Rust - Impl]]
+- [[Rust - Implementation Block|Rust - Impl]]
 - [[Rust crash course - structs 2024-10-31]]

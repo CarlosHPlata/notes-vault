@@ -13,10 +13,10 @@ language: rust
 # 📃 Rust Overloading 20-10-2024
 
 ---
-> [!bug] THERE'S NO OVERLOADING IN RUST FOR [[Rust - Implementation Block for Structs|METHODS]] OR [[Rust - Associated Functions for Structs|CONSTRUCTORS]].
+> [!bug] THERE'S NO OVERLOADING IN RUST FOR [[Rust - Implementation Block|METHODS]] OR [[Rust - Associated Functions for Structs|CONSTRUCTORS]].
 
 # 📦 References
 ---
 - [[Rust - Structs]]
-- [[Rust - Implementation Block for Structs|Rust - Impl]]
+- [[Rust - Implementation Block|Rust - Impl]]
 - [[Rust - Traits]]

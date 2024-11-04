@@ -28,4 +28,4 @@ List from #Rust/trait
 ---
 
 - [[Rust - Structs]]
-- [[Rust - Implementation Block for Structs|Rust - Impl]]
+- [[Rust - Implementation Block|Rust - Impl]]

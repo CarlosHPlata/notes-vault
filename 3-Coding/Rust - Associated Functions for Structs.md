@@ -14,7 +14,7 @@ language: rust
 # 📃 Associated Functions for Structs 02-11-2024
 
 ---
-A function in an [[Rust - Implementation Block for Structs|Implementation block]] that does not receive a `self` as first parameter is often referred as just **Associated Function**.
+A function in an [[Rust - Implementation Block|Implementation block]] that does not receive a `self` as first parameter is often referred as just **Associated Function**.
 
 Associated functions are often used for constructors that will return a new instance of the same struct. These are often called **new**.
 
@@ -62,7 +62,7 @@ fn main() {
 
 # 📦 References
 ---
-- [[Rust - Implementation Block for Structs|Rust - Impl]]
+- [[Rust - Implementation Block|Rust - Impl]]
 - [[Rust - Structs]]
 - [[Rust - Overloading Methods]]
 - [[Rust crash course - structs 2024-10-31]]

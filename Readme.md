@@ -10,7 +10,7 @@ banner_y: 0.52
 
 > [!tip] Why this file is named README you idiot?
 > Because Github automatically take the README as the file to show when checking the repository you dumb ass
-# 📃 Todo list
+## 📃 Todo list
 - 🛒Shopping list
   - [ ] regalo de vicky
   - [ ] globos feliz cumple
@@ -25,8 +25,8 @@ banner_y: 0.52
   - ["El Mito de Sísifo" de Albert Camus]( https://amzn.to/3KwtiDf)
   - ["El Principe" de Maquiavelo]( https://amzn.to/4ba1y2d)
  
-# 👩🏻‍💻Explore Notes
-- 👑 Coding Topics 
+## 👩🏻‍💻Explore Notes
+- 👑 Coding Super Topics 
  `$=dv.list(dv.pages('#Topic and #Programming').sort(f => f.file.name.length, "desc").file.link)`
  
 - 🐦‍⬛ Topics to expand

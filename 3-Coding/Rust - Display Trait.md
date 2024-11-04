@@ -44,5 +44,5 @@ assert_eq!(format!("The origin is: {origin}"), "The origin is: (0, 0)");
 - [[Rust - Traits]]
 - [[Rust - Debug Trait]]
 - [[Rust - Structs]]
-- [[Rust - Implementation Block for Structs|Rust - Impl]]
+- [[Rust - Implementation Block|Rust - Impl]]
 - [[Rust crash course - structs 2024-10-31]]
