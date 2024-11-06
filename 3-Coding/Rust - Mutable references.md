@@ -32,7 +32,7 @@ To fix this we will have to make a **mutable reference**. The steps to fix this 
 1. Make `s` a mutable variable.
 2. Make the function `give_ownership` receives a mutable reference.
 
-> [!tip] as with [[Rust variables and types | variables]] the syntax to declare a mutable reference is: `&mut`
+> [!tip] as with [[Rust - variables and types| variables]] the syntax to declare a mutable reference is: `&mut`
 
 So fixing this code is:
 ```rust
@@ -58,5 +58,5 @@ see more in deep in the [[Rust - Restriction on the types of references|Restrict
 
 - [[Rust crash course References and Borrowing 2024-10-28]]
 - [[Rust - References and borrowing]]
-- [[Rust variables and types]]
+- [[Rust - variables and types]]
 - [[Rust - Restriction on the types of references|Restriction on the types of references 28-10-2024]]

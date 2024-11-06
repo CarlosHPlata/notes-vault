@@ -1,7 +1,6 @@
 ---
 id: Rust language loops
-aliases:
-  - Coding
+aliases: []
 tags:
   - Programming/topic
 created:
@@ -103,4 +102,4 @@ for num in 0..=10 {
 ```
 
 ## References
-- [[Rust variables and types]]
+- [[Rust - variables and types]]

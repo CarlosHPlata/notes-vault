@@ -1,7 +1,6 @@
 ---
 id: Rust lang Ternary Conditions
-aliases:
-  - Coding
+aliases: []
 tags:
   - Programming/topic
 created:
@@ -48,5 +47,5 @@ msg = if num == 5 {
 
 ## 📦References 
 
-- [[Rust variables and types]]
+- [[Rust - variables and types]]
 - [[Rust - Implicit return]]

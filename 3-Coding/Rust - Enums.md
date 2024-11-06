@@ -83,6 +83,9 @@ let m = Message::Write(String::from("hello"));
 m.call();
 ```
 
+## Matching Enums
+Check here: [[Rust - Match Control Flow]]
+And here: [[Rust - Concise Control Flow with if let]]
 
 # 📦 References
 

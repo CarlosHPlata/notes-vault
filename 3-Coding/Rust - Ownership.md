@@ -37,7 +37,7 @@ The variable `x` is valid from the line 2 until the end of the scope of the func
 
 ## Transferring ownership 
 
-Normally [[Rust variables and types | Scalar types]] can be copied around when we assign them between variables. let's take for example this:
+Normally [[Rust - variables and types| Scalar types]] can be copied around when we assign them between variables. let's take for example this:
 
 ```rust
 fn main() {
@@ -58,7 +58,7 @@ fn main() {
 ```
 
 If we try to execute this code it will throw an error, saying `s1` is invalid and can't be used.
-This is due how [[Rust language strings type | Strings]] are threated in rust. Rust strings are not allocated in the Stack since it's length and content could vary and it's unknown for the compiler, instead the full content of the String is stored in [[Rust - Memory - The Heap|The Heap]] while in the Stack we only store some references *(The pointer, the length and the capacity)*.
+This is due how [[Rust - strings type| Strings]] are threated in rust. Rust strings are not allocated in the Stack since it's length and content could vary and it's unknown for the compiler, instead the full content of the String is stored in [[Rust - Memory - The Heap|The Heap]] while in the Stack we only store some references *(The pointer, the length and the capacity)*.
 
 ![[Pasted image 20241027230758.png]]
 
@@ -112,5 +112,5 @@ better to see [[Rust - References and borrowing| References and borrowing]]
 - [[ultimate rust crash course - OWNERSHIP 2024-10-27]]
 - [Rust Official documentation](https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html)
 - [[Rust - Memory management Stack and Heap]]
-- [[Rust variables and types]]
-- [[Rust language strings type]]
+- [[Rust - variables and types]]
+- [[Rust - strings type]]

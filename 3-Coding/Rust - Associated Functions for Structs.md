@@ -49,7 +49,7 @@ notice in the last example we have *2* constructors:
 - **square** is another constructor, that does not use the same convention but is useful to create a `Rectangle` with equal sides.
 ## How to call
 Associated functions **cannot be called with the dot notation** `rectangle.new` for example will fail.
-Instead we use double dot notation, like when we call `String::from` ([[Rust language strings type]]).
+Instead we use double dot notation, like when we call `String::from` ([[Rust - strings type]]).
 
 So following the example above to call those constructors we use:
 

@@ -95,6 +95,6 @@ Since the last point using **UTF-8** you cannot iterate over a string simply you
 
 ---
 
-- [[Rust variables and types]]
+- [[Rust - variables and types]]
 - [[Rust - Memory - The Heap]]
 - [[Rust - Memory management Stack and Heap]]

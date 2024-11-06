@@ -26,7 +26,7 @@ For example let's say that we have the following code:
 let s = String::from("hello world");
 ```
 
-If we remember how [[Rust language strings type|Strings]] work the content of the string exists in the heap, let's say we wanna extract just the second word we can use a slice to do that:
+If we remember how [[Rust - strings type|Strings]] work the content of the string exists in the heap, let's say we wanna extract just the second word we can use a slice to do that:
 
 ```rust
 let s = String::from("hello world");
@@ -67,7 +67,7 @@ let slice = &my_array[..]; // a slice of everything
 ---
 
 - [[Rust - Collections]]
-- [[Rust language strings type]]
+- [[Rust - strings type]]
 - [[Rust - Memory management Stack and Heap]]
 - [[Rust - Ownership]]
 - [[Rust - Crash course slices 2024-11-03]]

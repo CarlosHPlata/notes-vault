@@ -25,7 +25,7 @@ fn main() {
 }
 ```
 
-In Rust [[Rust variables and types | primitive values]] are allocated in the stack by default. But with [[Rust - Box| Box]] you can make the value go to the heap instead.
+In Rust [[Rust - variables and types| primitive values]] are allocated in the stack by default. But with [[Rust - Box| Box]] you can make the value go to the heap instead.
 
 Here is what will happen in the memory:
 

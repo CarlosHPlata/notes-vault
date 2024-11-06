@@ -38,7 +38,7 @@ let no_value: Option<i32> = None;
 
 The [Option Official Documentation](https://doc.rust-lang.org/std/option/enum.Option.html) has several methods that you can use with the Optional Enum.
 
-If you want to select between None and Some you have to use [[Rust - Match Pattern]]
+If you want to select between None and Some you have to use [[Rust - Match Control Flow]] or [[Rust - Concise Control Flow with if let]]
 # 📦 References
 
 ---

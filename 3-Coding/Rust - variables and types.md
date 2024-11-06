@@ -102,4 +102,4 @@ To access a member of an array use: `arr[0]` where `0` is the index of the array
 ## 📦References
 - [[Rust - Memory - The Stack]]
 - [[Rust - Memory management Stack and Heap]]
-- [[Rust language strings type]]
+- [[Rust - strings type]]
