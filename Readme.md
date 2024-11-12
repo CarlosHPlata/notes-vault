@@ -12,7 +12,6 @@ banner_y: 0.52
 > Because Github automatically take the README as the file to show when checking the repository you dumb ass
 ## 📃 Todo list
 - 🛒Shopping list
-  - [ ] regalo de vicky
   - [ ] globos feliz cumple
   - [ ] pastel
   
