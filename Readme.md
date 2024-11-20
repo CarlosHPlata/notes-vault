@@ -15,7 +15,10 @@ banner_y: 0.52
   - [ ] globos feliz cumple
   - [ ] pastel
   
-- 💼 To complete 
+- 💼 Projects
+ `$=dv.taskList(dv.pages('#Project').file.tasks.where(t => !t.completed), true)`
+ 
+- 🗓️ Daily Tasks
  `$=dv.taskList(dv.pages('"1-log"').file.tasks.where(t => !t.completed), false)`
 
 - 📕Interesting books to start reading

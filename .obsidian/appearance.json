@@ -4,5 +4,6 @@
     "dashboard",
     "dashboard-ReadLineLength",
     "banner-fix"
-  ]
+  ],
+  "theme": "system"
 }
