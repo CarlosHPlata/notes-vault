@@ -1,4 +1,8 @@
 ---
+banner: "![[minimalist-black-hole.png]]"
+banner_y: 0.5
+---
+---
 id: Readme
 aliases: 
 tags: 

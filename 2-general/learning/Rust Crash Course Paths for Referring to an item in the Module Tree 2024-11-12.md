@@ -1,10 +1,10 @@
 ---
 created:
   - 2024-11-12 23:16
-aliases: [Rust Crash Course Paths for Refereing to an item in the Module Tree 2024-11-12]
+aliases:
+  - Rust Crash Course Paths for Refereing to an item in the Module Tree 2024-11-12
 tags:
   - Programming/learning
-  - "#new"
 language: rust
 ---
 ```meta-bind-button

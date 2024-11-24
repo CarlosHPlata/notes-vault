@@ -45,6 +45,8 @@ capacity -> 8
 
 A **borrowed string slice** is a subset of **string**
 
+> [!danger] A `String` is a wrapper over a `Vec<u8>` as, as a [[Rust - Vectors|Vector]] it can use all the methods from the Vector type.
+
 ### string slice
 
 Defined by:
