@@ -1,15 +1,11 @@
 ---
 banner: "![[minimalist-black-hole.png]]"
 banner_y: 0.5
----
----
 id: Readme
 aliases: 
 tags: 
 cssclasses:
   - dashboard
-banner: "![[minimalist-black-hole.png]]"
-banner_y: 0.52
 ---
 
 > [!tip] Why this file is named README you idiot?
