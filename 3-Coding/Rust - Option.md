@@ -38,7 +38,12 @@ let no_value: Option<i32> = None;
 
 The [Option Official Documentation](https://doc.rust-lang.org/std/option/enum.Option.html) has several methods that you can use with the Optional Enum.
 
-If you want to select between None and Some you have to use [[Rust - Match Control Flow]] or [[Rust - Concise Control Flow with if let]]
+
+## Helper functions
+Option has some helper functions and operators you can explore:
+- If you want to select between None and Some you have to use [[Rust - Match Control Flow]] or [[Rust - Concise Control Flow with if let]]
+ - [[Rust - unwrap|unwrap helper functions]] will help you to get the value of the `Option` without use `match`.
+ - [[Rust - Question Mark Operator|The question mark operator]] will help you to `unwrap` a value directly.
 # 📦 References
 
 ---
