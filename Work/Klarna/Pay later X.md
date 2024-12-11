@@ -87,6 +87,12 @@ These two task above have to be done together
 This is the steps I will follow
 - [PEM-9861](https://klarna.atlassian.net/browse/PEM-9862) Configure default recurrent and cadence per market
     - Make some configs to set the default values for SCAL based by market on the step created before.
+
+### 2024-12-2
+#### Wrong creation of purchase tokens
+We discover that the creation of the token is wrong check this ticket [PEM-9983](https://klarna.slack.com/archives/C05863N1YTX/p1732810159938959)
+
+
 ---
 ## 📢 Project information
 Created:: 2024-11-15 15:22 
@@ -100,8 +106,15 @@ Platform::
 ## ✅ Tasks 
 - [x] Create a configuration called `feature.invoice.aggregated.settlement.calendar.onboard=GB`
 - [x] Use that configuration in the `invoicePaymentMethodsCreator` to differentiate US than GB
-- [ ] Map the new PGW endpoint in the PGW module task PEM-9863
-- [ ] Create a new Step called `OnboardSettlementCalendarStep` and make it conditional with the prev configuration.
-- [ ] Add new integration test for the onboarding process covering when User is not being
+- [x] Map the new PGW endpoint in the PGW module task PEM-9863
+- [x] Create a new Step called `OnboardSettlementCalendarStep` and make it conditional with the prev configuration.
+- [x] Add new integration test for the onboarding process covering when User is not being
+- [x] Create new configuration to set default values for cadence and days [PEM-9862](https://klarna.atlassian.net/browse/PEM-9862).
+- [x] Send a default value of 1 on the create payment method [PEM-9862](https://klarna.atlassian.net/browse/PEM-9862).
+- [ ] Fix bug creating new token [PEM-9983](https://klarna.slack.com/archives/C05863N1YTX/p1732810159938959)
+- [ ] Investigate and create the new bug 
+
+
+
 ## 📦 Resources 
 - [Figma](https://www.figma.com/design/v3x33qFmmMXGmLNIwSGJmO/S%26OD-feature-explorations?node-id=1549-66526&node-type=canvas&t=wWcQAaHdwYbMSki2-0)
