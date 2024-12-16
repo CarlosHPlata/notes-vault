@@ -30,5 +30,6 @@ Platform::
 ## ✅ Tasks 
 
 ## 📦 Resources 
+https://docs.google.com/spreadsheets/d/1K4gqCXKIHSx21aB0DdXWE-sblBcWNpTIp5lLC_h1OOU/edit?gid=1098093679#gid=1098093679
 
 ## 📂 Project Logs 

@@ -21,9 +21,9 @@ Tags::
 Platform:: 
 
 ## ✅ Tasks 
-- [ ] Create Jira tasks for PI3 BE
-- [ ] Investigate requirements to activate PI3 BE
-- [ ] Activate PI3 BE
+- [x] Create Jira tasks for PI3 BE
+- [x] Investigate requirements to activate PI3 BE
+- [x] Activate PI3 BE
 
 ## 📦 Resources 
 

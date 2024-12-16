@@ -111,8 +111,8 @@ Platform::
 - [x] Add new integration test for the onboarding process covering when User is not being
 - [x] Create new configuration to set default values for cadence and days [PEM-9862](https://klarna.atlassian.net/browse/PEM-9862).
 - [x] Send a default value of 1 on the create payment method [PEM-9862](https://klarna.atlassian.net/browse/PEM-9862).
-- [ ] Fix bug creating new token [PEM-9983](https://klarna.slack.com/archives/C05863N1YTX/p1732810159938959)
-- [ ] Investigate and create the new bug 
+- [x] Fix bug creating new token [PEM-9983](https://klarna.slack.com/archives/C05863N1YTX/p1732810159938959)
+- [x] Investigate and create the new bug 
 
 
 
