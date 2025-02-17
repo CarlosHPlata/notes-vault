@@ -1,10 +1,11 @@
 ---
 created:
   - <% tp.file.creation_date() %>
-aliases: []
+aliases:
+  - <% tp.file.title %> <% tp.file.creation_date("DD-MM-YYYY") %>
 tags:
   - Programming/topic
-language:
+language: 
 ---
 <%* tp.hooks.on_all_templates_executed(async () => {
   let language =  await tp.system.prompt("The programming language")

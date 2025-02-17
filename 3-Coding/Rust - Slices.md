@@ -17,7 +17,7 @@ Slices is way to reference a contiguous sequence of elements in a collection rat
 
 >[!tip] is useful if you already know [[Rust - References and borrowing|References and borrowing]] and [[Rust - Memory management Stack and Heap|Memory management Stack and Heap]]
 
-As we already view in the memory management topic, there are some values that will be stored in the Heap instead of the Stack. And one of those values are the [[Rust Common Collections 2024-11-23|collections]].
+As we already view in the memory management topic, there are some values that will be stored in the Heap instead of the Stack. And one of those values are the [[Rust - Collections]].
 
 Slices let you reference just a part of a collection to use it as reference. It can be use for example to reference parts of **Strings** and **Arrays**.
 
@@ -66,10 +66,8 @@ let slice = &my_array[..]; // a slice of everything
 
 ---
 
+- [[Rust - Collections]]
 - [[Rust - strings type]]
 - [[Rust - Memory management Stack and Heap]]
 - [[Rust - Ownership]]
-- [[Rust - HashMaps]]
-- [[Rust - Vectors]]
 - [[Rust - Crash course slices 2024-11-03]]
-- [[Rust Common Collections 2024-11-23]]

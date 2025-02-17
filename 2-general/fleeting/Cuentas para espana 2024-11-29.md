@@ -1,2 +1,0 @@
-- Renta inicial -> 3350
-- Renta enero -> 950

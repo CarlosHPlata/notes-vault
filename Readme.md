@@ -1,11 +1,11 @@
 ---
-banner: "![[minimalist-black-hole.png]]"
-banner_y: 0.5
 id: Readme
 aliases: 
 tags: 
 cssclasses:
   - dashboard
+banner: "![[minimalist-black-hole.png]]"
+banner_y: 0.52
 ---
 
 > [!tip] Why this file is named README you idiot?
@@ -15,10 +15,7 @@ cssclasses:
   - [ ] globos feliz cumple
   - [ ] pastel
   
-- 💼 Projects
- `$=dv.taskList(dv.pages('#Project').file.tasks.where(t => !t.completed), true)`
- 
-- 🗓️ Daily Tasks
+- 💼 To complete 
  `$=dv.taskList(dv.pages('"1-log"').file.tasks.where(t => !t.completed), false)`
 
 - 📕Interesting books to start reading
