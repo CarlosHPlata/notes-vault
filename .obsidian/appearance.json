@@ -4,5 +4,7 @@
     "dashboard",
     "dashboard-ReadLineLength",
     "banner-fix"
-  ]
+  ],
+  "showViewHeader": true,
+  "showRibbon": false
 }

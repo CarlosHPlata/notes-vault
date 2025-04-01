@@ -8,5 +8,6 @@
   "attachmentFolderPath": "_Obsidian/attachments",
   "defaultViewMode": "preview",
   "propertiesInDocument": "visible",
-  "newFileFolderPath": "2-general/fleeting"
+  "newFileFolderPath": "2-general/fleeting",
+  "showInlineTitle": true
 }
