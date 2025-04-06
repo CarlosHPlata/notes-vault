@@ -1,3 +1,12 @@
+---
+created: 2025-04-02
+aliases:
+  - oracle1  26-10-2024
+tags:
+  - Programming/topic
+  - "#new"
+language:
+---
 
 SRV Calls (SOAP comunication protocol, it is a client that did everything, it's a generated code that has the client) is how we comunicate from GEN2 to Milenium.
 Gen2 is the backend side.
