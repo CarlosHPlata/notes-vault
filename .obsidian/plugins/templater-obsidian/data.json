@@ -19,8 +19,8 @@
       "template": "_Obsidian/templates/Topic.md"
     },
     {
-      "folder": "4-personal",
-      "template": "_Obsidian/templates/Topic.md"
+      "folder": "4-personal/Courses",
+      "template": "_Obsidian/templates/Course.md"
     },
     {
       "folder": "2-general/literature",
@@ -29,6 +29,10 @@
     {
       "folder": "2-general/learning",
       "template": "_Obsidian/templates/CodeLearning.md"
+    },
+    {
+      "folder": "4-personal/interviews",
+      "template": "_Obsidian/templates/mockInterviewEvaluation.md"
     }
   ],
   "enable_file_templates": false,
@@ -45,5 +49,6 @@
   ],
   "startup_templates": [
     ""
-  ]
+  ],
+  "intellisense_render": 1
 }

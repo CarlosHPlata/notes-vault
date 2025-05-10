@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBookOpenText",
-      "LiBook",
-      "LiNotebookText",
-      "LiHash",
-      "LiActivity"
+      "LiNotebookPen",
+      "🎙",
+      "LiSchool",
+      "LiCreditCard",
+      "LiBriefcase"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,8 @@
   "2-general/indexes": "LiHash",
   "2-general/learning": "LiNotebookText",
   "2-general/literature": "LiBookOpenText",
-  "2-general/Books": "LiBook"
+  "2-general/Books": "LiBook",
+  "4-personal/Courses": "LiSchool",
+  "4-personal/Work": "LiBriefcase",
+  "4-personal/interviews": "LiNotebookPen"
 }

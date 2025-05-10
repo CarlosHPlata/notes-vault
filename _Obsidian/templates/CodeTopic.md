@@ -1,8 +1,6 @@
 ---
 created:
   - <% tp.file.creation_date() %>
-aliases:
-  - <% tp.file.title %> <% tp.file.creation_date("DD-MM-YYYY") %>
 tags:
   - Programming/topic
 language: 
