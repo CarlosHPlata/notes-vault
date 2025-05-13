@@ -1,9 +1,8 @@
 ---
 created:
-  - "2025-05-01 23:28"
+  - 2025-05-01 23:28
 tags:
   - fleeting
-  - new
 ---
 ```
 open -n -a /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --args --user-data-dir="/tmp/chrome_dev_test" --disable-web-security

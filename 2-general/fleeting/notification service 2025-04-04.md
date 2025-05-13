@@ -1,9 +1,8 @@
 ---
 created:
-  - "2025-04-04 15:10"
+  - 2025-04-04 15:10
 tags:
   - fleeting
-  - new
 ---
 # 🔷 How it work notification services
 NSS-ohpas is event driven.

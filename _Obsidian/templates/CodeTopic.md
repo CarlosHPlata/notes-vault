@@ -4,6 +4,8 @@ created:
 tags:
   - Programming/topic
 language: 
+aliases:
+  - <% tp.file.title %>
 ---
 <%* tp.hooks.on_all_templates_executed(async () => {
   let language =  await tp.system.prompt("The programming language")

@@ -13,4 +13,5 @@ tags:
 ```dataview
 LIST FROM #Programming/topic 
 WHERE language = "architecture"
+SORT title ASC
 ```

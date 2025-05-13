@@ -58,4 +58,5 @@ So now we know that architecture tends to mimic organization decisions and commu
 
 ---
 
+- [[Architecture - DDD What is Domain Driven Design]]
 - [[Architecture - Conway's law|Conway's law 10-05-2025]]
