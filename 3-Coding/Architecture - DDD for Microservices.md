@@ -13,7 +13,7 @@ language: architecture
 # 📃 DDD for Microservices 12-05-2025
 
 ---
-As with the software architecture approach for single applications ([[Architecture - DDD What is Domain Driven Design|DDD]]). The philosophy is the same, try to abstract the domain into a technical language everybody can use, from the non technical to the technical staff ([[Architecture - DDD What is Domain Driven Design|Ubiquitous Language]]).
+As with the software architecture approach for single applications ([[Architecture - DDD What is Domain Driven Design|DDD]]). The philosophy is the same, try to abstract the domain into a technical language everybody can use, from the non technical to the technical staff ([[Architecture - Ubiquitous Language|Ubiquitous Language]]).
 
 We find the same approach for distributed systems, we start by talking with the domain experts and identifying the key structures of the business.
 

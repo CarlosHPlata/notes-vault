@@ -26,9 +26,7 @@ There are 3 principles that have to be followed to abstract the domain into some
 
 The goal is to talk with the domain experts, those stakeholders that have all the knowledge of the business, capture their thinking about the business and represent it into contexts that have some level of abstraction.
 
-We want to build an **Ubiquitous language**.
-
-> A ubiquitous language, is a spoken context that is used between technical and non technical stakeholders.
+We want to build an **[[Architecture - Ubiquitous Language|Ubiquitous Language]]**.
 
 ### Embed domain
 > [!info] Embed domain terminology into the code

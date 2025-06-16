@@ -14,4 +14,4 @@ actions:
     command: quickadd:choice:8e31af9f-9c45-478a-8752-70858a79703f
 
 ```
-# 🔷 
+# 🔷 {{title}}

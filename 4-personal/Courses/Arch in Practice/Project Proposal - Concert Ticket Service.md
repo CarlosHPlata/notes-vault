@@ -37,9 +37,9 @@ You will develop a modern ticketing platform where users can discover concerts, 
 - **Event Organizer** – Publishes concert events, manages seating arrangements, and tracks sales.
 - **System Administrator** – Oversees platform performance, monitors system health, and ensures secure and fair usage.
 
-## ✅ Core Use Cases
+## ✅ Common Use Cases
 
-- Search and filter upcoming concerts.
+- Search and filter upcoming events.
 - View a real-time list of available seats.
 - Reserve individual seats.
 - Finalize a purchase before the reservation expires.
@@ -53,7 +53,6 @@ You will develop a modern ticketing platform where users can discover concerts, 
 - The platform must handle many users at once across multiple events.
 - Teams must define clear API boundaries and collaborate across services.
 - The system must avoid double-bookings and maintain data integrity.
-- Include resilience strategies (e.g., timeouts, retries) and expose system metrics.
 - Handle authentication, authorization, and user privacy appropriately.
 
 ---

@@ -24,8 +24,8 @@ it works the same
 
 The author also have it remapped:
 ```lua
-vim.keymap.set("n", "n", "nzzv")
-vim.keymap.set("n", "N", "Nzzv")
+vim.keymap.set("n", "n", "nzz")
+vim.keymap.set("n", "N", "Nzz")
 ```
 
 If you have a word that repeats itself through your file you can use:
