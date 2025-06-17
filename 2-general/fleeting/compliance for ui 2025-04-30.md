@@ -1,9 +1,8 @@
 ---
 created:
-  - "2025-04-30 16:32"
+  - 2025-04-30 16:32
 tags:
   - fleeting
-  - new
 ---
 # 🔷 compliance for ui
 Ticket

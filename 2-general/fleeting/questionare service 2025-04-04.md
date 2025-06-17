@@ -1,9 +1,8 @@
 ---
 created:
-  - "2025-04-04 11:40"
+  - 2025-04-04 11:40
 tags:
   - fleeting
-  - new
 ---
 # 🔷 questionare service
 confluence.oraclecorp.com/confluence/display/ALPHA/Questionaire+UI+Design

@@ -1,9 +1,8 @@
 ---
 created:
-  - "2025-04-14 14:36"
+  - 2025-04-14 14:36
 tags:
   - fleeting
-  - new
 ---
 # 🔷 
 in scheduleReason.tsx

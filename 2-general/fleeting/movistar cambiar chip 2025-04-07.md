@@ -1,9 +1,8 @@
 ---
 created:
-  - "2025-04-07 14:26"
+  - 2025-04-07 14:26
 tags:
   - fleeting
-  - new
 ---
 # 🔷 
 descarga movistar

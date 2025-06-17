@@ -5,7 +5,6 @@ aliases:
   - curl cheatset  26-10-2024
 tags:
   - Programming/topic
-  - "#new"
 language:
 ---
 
