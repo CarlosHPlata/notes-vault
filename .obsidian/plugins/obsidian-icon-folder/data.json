@@ -44,6 +44,6 @@
   "2-general/literature": "LiBookOpenText",
   "2-general/Books": "LiBook",
   "4-personal/Courses": "LiSchool",
-  "4-personal/Work": "LiBriefcase",
-  "4-personal/interviews": "LiNotebookPen"
+  "4-personal/interviews": "LiNotebookPen",
+  "5-work": "LiBriefcase"
 }

@@ -28,6 +28,9 @@ The system is composed of **three main stages**:
 - These events signal plugin applications (frontend services) to take appropriate UI or service-level actions.
 - Ensures the final result is surfaced to the user (e.g., sending a message, updating a schedule, generating documentation).
 
+## Diagram
+![[Diagram - OCI AI Conversation Flow|10000]]
+
 # 📦 References
 ---
 - [EHR Modernization ](https://confluence.oraclecorp.com/confluence/display/OCIGBUCA/EHR+Modernization+DDR)

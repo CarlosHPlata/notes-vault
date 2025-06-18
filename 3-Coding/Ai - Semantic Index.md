@@ -31,7 +31,5 @@ The blank space can be filled by different objects like: *cat*, *dog* or *chair*
 Semantic indexes can be useful when dealing with large LLM's models to give more detailed and fast responses, it can also help a lot in preventing [[Ai - Hallucinations]].
 
 # 📦 References
-
 ---
-
 - [Integrating Knowledge Graphs and Vector RAG for efficient information extraction - Arxiv](https://arxiv.org/html/2408.04948v1)

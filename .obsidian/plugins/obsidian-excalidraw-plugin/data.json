@@ -22,9 +22,7 @@
   "drawingFilnameEmbedPostfix": " ",
   "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
   "useExcalidrawExtension": true,
-  "cropSuffix": "",
   "cropPrefix": "cropped_",
-  "annotateSuffix": "",
   "annotatePrefix": "annotated_",
   "annotatePreserveSize": false,
   "previewImageType": "SVGIMG",
@@ -103,8 +101,201 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.12.4",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.11.1",
     "libraryItems": [
+      {
+        "status": "unpublished",
+        "elements": [
+          {
+            "type": "line",
+            "version": 2858,
+            "versionNonce": 1740256242,
+            "isDeleted": false,
+            "id": "Qrkvl1WILvQcVRlWD6_qE",
+            "fillStyle": "solid",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 0,
+            "opacity": 100,
+            "angle": 0,
+            "x": -579.0972592862742,
+            "y": -20.983942123629213,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "#a5d8ff",
+            "width": 135.8788312526253,
+            "height": 130.0278401377151,
+            "seed": 1648822130,
+            "groupIds": [
+              "MJ7jg4CDysOD6om2Cwfes",
+              "3iVcwsAsc5raEz00ROhNK"
+            ],
+            "startBinding": null,
+            "endBinding": null,
+            "lastCommittedPoint": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                0,
+                89.81775306128448
+              ],
+              [
+                2.380549693728721,
+                106.06007501945909
+              ],
+              [
+                18.72160963570755,
+                112.02775643700518
+              ],
+              [
+                43.196603953870195,
+                116.74662371343749
+              ],
+              [
+                69.29603507792301,
+                117.96524260144224
+              ],
+              [
+                91.57879161591511,
+                116.75019838444672
+              ],
+              [
+                112.47829042985575,
+                113.74649095924214
+              ],
+              [
+                133.32396974563576,
+                105.41994075775885
+              ],
+              [
+                134.74894348892983,
+                89.81775306128448
+              ],
+              [
+                135.8788312526253,
+                12.234202942589796
+              ],
+              [
+                134.16317027603475,
+                -0.3911179841695791
+              ],
+              [
+                117.27362661541841,
+                -7.126192966567041
+              ],
+              [
+                98.31838548867478,
+                -10.941487811813053
+              ],
+              [
+                73.67575439640541,
+                -12.062597536272833
+              ],
+              [
+                58.0353652155778,
+                -12.029971218250166
+              ],
+              [
+                24.730158636298647,
+                -9.603297156391237
+              ],
+              [
+                0,
+                0
+              ]
+            ],
+            "index": "b0L",
+            "frameId": null,
+            "roundness": {
+              "type": 2
+            },
+            "boundElements": [],
+            "updated": 1750267108505,
+            "link": null,
+            "locked": false,
+            "polygon": false
+          },
+          {
+            "type": "ellipse",
+            "version": 1103,
+            "versionNonce": 758268078,
+            "isDeleted": false,
+            "id": "umUnbCitpB2b2D8L4C9q6",
+            "fillStyle": "solid",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 0,
+            "opacity": 100,
+            "angle": 0,
+            "x": -577.8822307630705,
+            "y": -34.63508969919246,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "#ffffff",
+            "width": 135.63825210534654,
+            "height": 36.87934613713121,
+            "seed": 177817906,
+            "groupIds": [
+              "MJ7jg4CDysOD6om2Cwfes",
+              "3iVcwsAsc5raEz00ROhNK"
+            ],
+            "index": "b0M",
+            "frameId": null,
+            "roundness": null,
+            "boundElements": [],
+            "updated": 1750267094844,
+            "link": null,
+            "locked": false
+          },
+          {
+            "type": "text",
+            "version": 298,
+            "versionNonce": 876515694,
+            "isDeleted": false,
+            "id": "LuRR2DGE",
+            "fillStyle": "hachure",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "angle": 0,
+            "x": -572.3148069487456,
+            "y": 10.939299050729403,
+            "strokeColor": "#000000",
+            "backgroundColor": "#228be6",
+            "width": 124.2095593494881,
+            "height": 61.943767090456646,
+            "seed": 2059227890,
+            "groupIds": [
+              "lWAbgAvAvPoDSr7WK77Ej",
+              "3iVcwsAsc5raEz00ROhNK"
+            ],
+            "fontSize": 24.77750683618266,
+            "fontFamily": 1,
+            "text": "Agent\nMetadata",
+            "baseline": 14,
+            "textAlign": "center",
+            "verticalAlign": "top",
+            "index": "b0N",
+            "frameId": null,
+            "roundness": null,
+            "boundElements": [],
+            "updated": 1750267112559,
+            "link": null,
+            "locked": false,
+            "rawText": "Agent\nMetadata",
+            "containerId": null,
+            "originalText": "Agent\nMetadata",
+            "autoResize": true,
+            "lineHeight": 1.25
+          }
+        ],
+        "id": "wwTplsE33qgZRXR7viKDT",
+        "created": 1750267117175
+      },
       {
         "id": "he-s7yNp1I7DIxUPGw9zL",
         "status": "published",
@@ -78502,7 +78693,7 @@
               ],
               [
                 53.243674643423574,
-                21.28567723840069
+                21.285677238400684
               ],
               [
                 0,
@@ -81218,5 +81409,7 @@
     "customPaperColor": "#ffffff",
     "alignment": "center",
     "margin": "normal"
-  }
+  },
+  "cropSuffix": "",
+  "annotateSuffix": ""
 }
