@@ -20,14 +20,13 @@ It's central in systems that deal with semantic search, natural language underst
 A semantic index maps [[General - Semantic Object | Semantic Objects]] into a **vector** representation for enriching search features.
 
 ## Relationship with graphs
-Semantic Indexes often work in **tandem with graphs**, especially in knowledge representation or **retrieval-augmented generation (RAG)**.
+Semantic Indexes often work in **tandem with graphs**, especially in knowledge representation or **[[Ai - Retrieval-Augmented Generation (RAG)|retrieval-augmented generation (RAG)]]**.
 
 The graphs let's the agents to scan through [[General - Semantic Object|Semantic Objects]] and their relationship and closeness in their meaning for example in the next sentence:
 
 > I have to take my pet to the doctor since it's a _________  with four legs
 
-The blank space can be filled by different objects like: *cat, dog or chair*. What is the difference between those concepts, if all have four legs. The graph would be helpful here by scoring their relationship in the context of proximity of their context, in this case *cat* and *dog* are the words that are more close together and would be good options to fill the sentence.
-
+The blank space can be filled by different objects like: *cat*, *dog* or *chair*. What is the difference between those concepts, if all have four legs. The graph would be helpful here by scoring their relationship in the context of proximity of their meaning, in this case *cat* and *dog* are the words that are more close together and would be good options to fill the sentence.
 ## Their use
 Semantic indexes can be useful when dealing with large LLM's models to give more detailed and fast responses, it can also help a lot in preventing [[Ai - Hallucinations]].
 

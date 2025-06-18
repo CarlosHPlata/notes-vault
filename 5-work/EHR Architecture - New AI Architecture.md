@@ -16,7 +16,5 @@ See Diagram:
 ![[Diagram - OCI EHR AI powered high level architecture|700]]
 
 # 📦 References
-
 ---
-
--<% tp.file.cursor(2) %>
+- [EHR Modernization](https://confluence.oraclecorp.com/confluence/display/OCIGBUCA/EHR+Modernization+DDR)

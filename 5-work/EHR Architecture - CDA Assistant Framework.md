@@ -29,7 +29,6 @@ The system is composed of **three main stages**:
 - Ensures the final result is surfaced to the user (e.g., sending a message, updating a schedule, generating documentation).
 
 # 📦 References
-
 ---
-
+- [EHR Modernization ](https://confluence.oraclecorp.com/confluence/display/OCIGBUCA/EHR+Modernization+DDR)
 - [HL7 FHIR - Healthcare Data Modeling and semantic interoperability](https://hl7.org/fhir/)

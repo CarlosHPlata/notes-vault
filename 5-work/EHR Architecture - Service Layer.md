@@ -11,7 +11,5 @@ Service layer is where the services that serve the [[EHR Architecture - Applicat
 And intrinsic part of the Service Layer is the [[EHR Architecture - CDA Assistant Framework|CDA Assistant Framework]]
 
 # 📦 References
-
 ---
-
--<% tp.file.cursor(2) %>
+- [EHR Modernization](https://confluence.oraclecorp.com/confluence/display/OCIGBUCA/EHR+Modernization+DDR)

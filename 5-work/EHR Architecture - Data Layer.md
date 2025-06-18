@@ -3,7 +3,7 @@ created:
   - 2025-06-18 01:30
 tags: work
 ---
-# 📃 EHR Architecture - Data Layer 18-06-2025
+# 📃 Data Layer
 
 ---
 The **Data Layer** is responsible for managing, transforming, and serving the core **clinical and operational data** required by both the [[EHR Architecture - CDA Assistant Framework|CDA Assistant Framework Service]] (LLMs, planners, semantic engines) and traditional **backend services** in the [[EHR Architecture - Service Layer|Service Layer]].
@@ -18,8 +18,7 @@ It uses the [[Ai - Retrieval-Augmented Generation (RAG)|Retrieval-Augmented Gene
 - Transforms raw clinical data into [[General - Semantic Object|semantic-rich objects]] interpretable by downstream agents.
 - Serves both **symbolic queries** (e.g., SQL or graph traversal) and **semantic queries** (e.g., embedding similarity).
 - Supports **[[Ai - Retrieval-Augmented Generation (RAG)|Retrieval Augmented Generation (RAG)]]**, enabling large language models to augment their reasoning with contextual data retrieved at inference time.
+
 # 📦 References
-
 ---
-
--<% tp.file.cursor(2) %>
+- [EHR Modernization](https://confluence.oraclecorp.com/confluence/display/OCIGBUCA/EHR+Modernization+DDR)

@@ -11,7 +11,5 @@ This is the UI part of the application, is implemented in OJET and React, the UI
 We want that plugins that are written in the application can also react to actions and events from the Conversation Plugin.
 
 # 📦 References
-
 ---
-
--<% tp.file.cursor(2) %>
+- [EHR Modernization ](https://confluence.oraclecorp.com/confluence/display/OCIGBUCA/EHR+Modernization+DDR)

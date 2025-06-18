@@ -22,7 +22,9 @@
   "drawingFilnameEmbedPostfix": " ",
   "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
   "useExcalidrawExtension": true,
+  "cropSuffix": "",
   "cropPrefix": "cropped_",
+  "annotateSuffix": "",
   "annotatePrefix": "annotated_",
   "annotatePreserveSize": false,
   "previewImageType": "SVGIMG",
@@ -101,7 +103,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.11.1",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.12.4",
     "libraryItems": [
       {
         "id": "he-s7yNp1I7DIxUPGw9zL",
@@ -182,7 +184,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -229,7 +232,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -276,7 +280,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -323,7 +328,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -370,7 +376,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           }
         ],
         "created": 1659863337886,
@@ -455,7 +462,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -502,7 +510,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -549,7 +558,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -596,7 +606,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -643,7 +654,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -690,7 +702,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "rectangle",
@@ -803,7 +816,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -978,7 +992,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -1025,7 +1040,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -1072,7 +1088,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -1119,7 +1136,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -1166,7 +1184,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -1221,7 +1240,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -1288,7 +1308,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "rectangle",
@@ -1403,7 +1424,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -1450,7 +1472,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -1497,7 +1520,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -1544,7 +1568,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -1591,7 +1616,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -1638,7 +1664,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "rectangle",
@@ -1753,7 +1780,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -1800,7 +1828,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -1847,7 +1876,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -1894,7 +1924,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -1941,7 +1972,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2000,7 +2032,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2055,7 +2088,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2106,7 +2140,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2161,7 +2196,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2212,7 +2248,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2263,7 +2300,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2326,7 +2364,8 @@
             "frameId": null,
             "roundness": {
               "type": 2
-            }
+            },
+            "polygon": false
           },
           {
             "type": "line",
@@ -2377,7 +2416,8 @@
             "frameId": null,
             "roundness": {
               "type": 2
-            }
+            },
+            "polygon": false
           },
           {
             "type": "line",
@@ -2428,7 +2468,8 @@
             "frameId": null,
             "roundness": {
               "type": 2
-            }
+            },
+            "polygon": false
           },
           {
             "type": "line",
@@ -2479,7 +2520,8 @@
             "frameId": null,
             "roundness": {
               "type": 2
-            }
+            },
+            "polygon": false
           },
           {
             "type": "line",
@@ -2538,7 +2580,8 @@
             "frameId": null,
             "roundness": {
               "type": 2
-            }
+            },
+            "polygon": false
           }
         ],
         "created": 1659863327528,
@@ -2625,7 +2668,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2673,7 +2717,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2721,7 +2766,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2769,7 +2815,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2817,7 +2864,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2888,7 +2936,8 @@
             "frameId": null,
             "roundness": {
               "type": 2
-            }
+            },
+            "polygon": false
           },
           {
             "type": "line",
@@ -2955,7 +3004,8 @@
             "frameId": null,
             "roundness": {
               "type": 2
-            }
+            },
+            "polygon": false
           }
         ],
         "created": 1659863325658,
@@ -3040,7 +3090,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -3087,7 +3138,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -3134,7 +3186,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -3189,7 +3242,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -3244,7 +3298,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           }
         ],
         "created": 1659863323698,
@@ -3331,7 +3386,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -3379,7 +3435,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -3427,7 +3484,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -3475,7 +3533,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -3523,7 +3582,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "text",
@@ -3651,7 +3711,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -3699,7 +3760,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -3747,7 +3809,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -3795,7 +3858,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -3843,7 +3907,8 @@
               "type": 2
             },
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "text",
@@ -4003,7 +4068,8 @@
             "boundElements": [],
             "updated": 1750189918441,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -4187,7 +4253,8 @@
             "boundElements": [],
             "updated": 1750189918441,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -4236,7 +4303,8 @@
             "boundElements": [],
             "updated": 1750189918441,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "text",
@@ -4543,7 +4611,8 @@
             "boundElements": [],
             "updated": 1750189918441,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "text",
@@ -4700,7 +4769,8 @@
             "boundElements": [],
             "updated": 1750189918441,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -4890,7 +4960,8 @@
             "boundElements": [],
             "updated": 1750189918441,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -5080,7 +5151,8 @@
             "boundElements": [],
             "updated": 1750189918441,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -5270,7 +5342,8 @@
             "boundElements": [],
             "updated": 1750189918441,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -5460,7 +5533,8 @@
             "boundElements": [],
             "updated": 1750189918441,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -5650,7 +5724,8 @@
             "boundElements": [],
             "updated": 1750189918441,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -5802,7 +5877,8 @@
             "boundElements": [],
             "updated": 1750189918441,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -5945,7 +6021,8 @@
             "boundElements": [],
             "updated": 1750189918441,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -5994,7 +6071,8 @@
             "boundElements": [],
             "updated": 1750189918441,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "text",
@@ -6301,7 +6379,8 @@
             "boundElements": [],
             "updated": 1750189918441,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "text",
@@ -6461,7 +6540,8 @@
             "boundElements": [],
             "updated": 1750189918442,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -6652,7 +6732,8 @@
             "boundElements": [],
             "updated": 1750189918442,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -6844,7 +6925,8 @@
             "boundElements": [],
             "updated": 1750189918442,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -7036,7 +7118,8 @@
             "boundElements": [],
             "updated": 1750189918442,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -7228,7 +7311,8 @@
             "boundElements": [],
             "updated": 1750189918442,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -7420,7 +7504,8 @@
             "boundElements": [],
             "updated": 1750189918442,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -7612,7 +7697,8 @@
             "boundElements": [],
             "updated": 1750189918442,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -7661,7 +7747,8 @@
             "boundElements": [],
             "updated": 1750189918442,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "text",
@@ -7968,7 +8055,8 @@
             "boundElements": [],
             "updated": 1750189918442,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           }
         ],
         "id": "eRCwxI0Sfac8H8TxLb_Iv",
@@ -8087,7 +8175,8 @@
             "boundElements": [],
             "updated": 1750189918442,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -8265,7 +8354,8 @@
             "boundElements": [],
             "updated": 1750189918442,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -8311,7 +8401,8 @@
             "boundElements": [],
             "updated": 1750189918442,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "text",
@@ -8473,7 +8564,8 @@
             "boundElements": [],
             "updated": 1750189918442,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -8651,7 +8743,8 @@
             "boundElements": [],
             "updated": 1750189918442,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -8697,7 +8790,8 @@
             "boundElements": [],
             "updated": 1750189918442,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "text",
@@ -8859,7 +8953,8 @@
             "boundElements": [],
             "updated": 1750189918444,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -9037,7 +9132,8 @@
             "boundElements": [],
             "updated": 1750189918444,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -9083,7 +9179,8 @@
             "boundElements": [],
             "updated": 1750189918444,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "text",
@@ -9286,7 +9383,8 @@
             "boundElements": [],
             "updated": 1750189918444,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -9477,7 +9575,8 @@
             "boundElements": [],
             "updated": 1750189918444,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -9668,7 +9767,8 @@
             "boundElements": [],
             "updated": 1750189918444,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -9859,7 +9959,8 @@
             "boundElements": [],
             "updated": 1750189918444,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -10252,7 +10353,8 @@
             "boundElements": [],
             "updated": 1750189918444,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -10343,7 +10445,8 @@
             "boundElements": [],
             "updated": 1750189918444,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           }
         ],
         "id": "tDjCb0VB2Gti_wth1RvKW",
@@ -10408,7 +10511,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -10466,7 +10570,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "rectangle",
@@ -10545,7 +10650,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -10593,7 +10699,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -10641,7 +10748,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -10689,7 +10797,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -10737,7 +10846,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -10785,7 +10895,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -10833,7 +10944,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -10881,7 +10993,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -10929,7 +11042,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -10977,7 +11091,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11025,7 +11140,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11073,7 +11189,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11121,7 +11238,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11169,7 +11287,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11217,7 +11336,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11265,7 +11385,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11313,7 +11434,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11361,7 +11483,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11409,7 +11532,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11457,7 +11581,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11505,7 +11630,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11553,7 +11679,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11601,7 +11728,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11649,7 +11777,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11697,7 +11826,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11745,7 +11875,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11793,7 +11924,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11841,7 +11973,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11889,7 +12022,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11937,7 +12071,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11985,7 +12120,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -12033,7 +12169,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -12081,7 +12218,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "text",
@@ -12207,7 +12345,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "rectangle",
@@ -12337,7 +12476,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -12428,7 +12568,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -12488,7 +12629,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -12540,7 +12682,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -12588,7 +12731,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -12640,7 +12784,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -12692,7 +12837,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -12760,7 +12906,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -12808,7 +12955,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -12856,7 +13004,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -12904,7 +13053,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -12952,7 +13102,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -13000,7 +13151,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -13048,7 +13200,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -13096,7 +13249,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -13144,7 +13298,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -13192,7 +13347,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           }
         ],
         "id": "odtDKt7ck59stpBJQiM-Z",
@@ -13274,7 +13430,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "rectangle",
@@ -13404,7 +13561,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -13495,7 +13653,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -13555,7 +13714,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -13607,7 +13767,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -13655,7 +13816,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -13707,7 +13869,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -13759,7 +13922,8 @@
             "boundElements": [],
             "updated": 1750189918445,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           }
         ],
         "id": "hGXD8fqJORg0yDeX_t3Tu",
@@ -13841,7 +14005,8 @@
             "boundElements": [],
             "updated": 1750189918446,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "rectangle",
@@ -13971,7 +14136,8 @@
             "boundElements": [],
             "updated": 1750189918446,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -14065,7 +14231,8 @@
             "boundElements": [],
             "updated": 1750189918446,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -14112,7 +14279,8 @@
             "boundElements": [],
             "updated": 1750189918446,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -14163,7 +14331,8 @@
             "boundElements": [],
             "updated": 1750189918446,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -14214,7 +14383,8 @@
             "boundElements": [],
             "updated": 1750189918446,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -14286,7 +14456,8 @@
             "boundElements": [],
             "updated": 1750189918446,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -14435,7 +14606,8 @@
             "boundElements": [],
             "updated": 1750189918446,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -14798,7 +14970,8 @@
             "boundElements": [],
             "updated": 1750189918446,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -14844,7 +15017,8 @@
             "boundElements": [],
             "updated": 1750189918446,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -14890,7 +15064,8 @@
             "boundElements": [],
             "updated": 1750189918446,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -14936,7 +15111,8 @@
             "boundElements": [],
             "updated": 1750189918446,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -14982,7 +15158,8 @@
             "boundElements": [],
             "updated": 1750189918446,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15028,7 +15205,8 @@
             "boundElements": [],
             "updated": 1750189918446,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15074,7 +15252,8 @@
             "boundElements": [],
             "updated": 1750189918446,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "text",
@@ -15205,7 +15384,8 @@
             "boundElements": [],
             "updated": 1750189918447,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15254,7 +15434,8 @@
             "boundElements": [],
             "updated": 1750189918447,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15303,7 +15484,8 @@
             "boundElements": [],
             "updated": 1750189918447,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15352,7 +15534,8 @@
             "boundElements": [],
             "updated": 1750189918447,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15401,7 +15584,8 @@
             "boundElements": [],
             "updated": 1750189918447,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15450,7 +15634,8 @@
             "boundElements": [],
             "updated": 1750189918447,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15499,7 +15684,8 @@
             "boundElements": [],
             "updated": 1750189918447,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15548,7 +15734,8 @@
             "boundElements": [],
             "updated": 1750189918447,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15597,7 +15784,8 @@
             "boundElements": [],
             "updated": 1750189918447,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15646,7 +15834,8 @@
             "boundElements": [],
             "updated": 1750189918447,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15695,7 +15884,8 @@
             "boundElements": [],
             "updated": 1750189918447,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15744,7 +15934,8 @@
             "boundElements": [],
             "updated": 1750189918447,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15868,7 +16059,8 @@
             "boundElements": [],
             "updated": 1750189918447,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "id": "C2gEKBWluwE_AuYD2_sXm",
@@ -16349,7 +16541,8 @@
             "boundElements": [],
             "updated": 1750189918447,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -16395,7 +16588,8 @@
             "boundElements": [],
             "updated": 1750189918447,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -16441,7 +16635,8 @@
             "boundElements": [],
             "updated": 1750189918447,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -16487,7 +16682,8 @@
             "boundElements": [],
             "updated": 1750189918447,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -16533,7 +16729,8 @@
             "boundElements": [],
             "updated": 1750189918447,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -16579,7 +16776,8 @@
             "boundElements": [],
             "updated": 1750189918447,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -16625,7 +16823,8 @@
             "boundElements": [],
             "updated": 1750189918447,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           }
         ],
         "id": "Xc07hkhsKPk6Um65NzeFp",
@@ -17061,7 +17260,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17107,7 +17307,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17153,7 +17354,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17199,7 +17401,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17245,7 +17448,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17291,7 +17495,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17337,7 +17542,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17397,7 +17603,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17457,7 +17664,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "rectangle",
@@ -17540,7 +17748,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17590,7 +17799,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17640,7 +17850,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17690,7 +17901,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17740,7 +17952,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17790,7 +18003,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17840,7 +18054,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17890,7 +18105,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17940,7 +18156,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17990,7 +18207,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18040,7 +18258,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18090,7 +18309,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18140,7 +18360,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18190,7 +18411,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18240,7 +18462,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18290,7 +18513,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18340,7 +18564,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18390,7 +18615,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18440,7 +18666,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18490,7 +18717,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18540,7 +18768,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18590,7 +18819,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18640,7 +18870,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18690,7 +18921,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18740,7 +18972,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18790,7 +19023,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18840,7 +19074,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18890,7 +19125,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18940,7 +19176,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18990,7 +19227,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -19040,7 +19278,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -19090,7 +19329,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -19140,7 +19380,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "text",
@@ -19347,7 +19588,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -19396,7 +19638,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -19469,7 +19712,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -19570,7 +19814,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           }
         ],
         "id": "WVdX6jPs5lsTDIjZAGjlp",
@@ -20008,7 +20253,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -20054,7 +20300,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -20100,7 +20347,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -20146,7 +20394,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -20192,7 +20441,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -20238,7 +20488,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -20284,7 +20535,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "text",
@@ -20437,7 +20689,8 @@
             "boundElements": [],
             "updated": 1750189918448,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -20906,7 +21159,8 @@
             "boundElements": [],
             "updated": 1750189918449,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -20952,7 +21206,8 @@
             "boundElements": [],
             "updated": 1750189918449,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -20998,7 +21253,8 @@
             "boundElements": [],
             "updated": 1750189918449,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -21044,7 +21300,8 @@
             "boundElements": [],
             "updated": 1750189918449,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -21090,7 +21347,8 @@
             "boundElements": [],
             "updated": 1750189918449,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -21136,7 +21394,8 @@
             "boundElements": [],
             "updated": 1750189918449,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -21182,7 +21441,8 @@
             "boundElements": [],
             "updated": 1750189918449,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -21295,7 +21555,8 @@
             "boundElements": [],
             "updated": 1750189918449,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -21478,7 +21739,8 @@
             "boundElements": [],
             "updated": 1750189918449,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -21525,7 +21787,8 @@
             "boundElements": [],
             "updated": 1750189918449,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "rectangle",
@@ -21710,7 +21973,8 @@
             "link": null,
             "locked": false,
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -21762,7 +22026,8 @@
             "link": null,
             "locked": false,
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -21818,7 +22083,8 @@
             "link": null,
             "locked": false,
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -21878,7 +22144,8 @@
             "link": null,
             "locked": false,
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -21930,7 +22197,8 @@
             "link": null,
             "locked": false,
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -21986,7 +22254,8 @@
             "link": null,
             "locked": false,
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           }
         ],
         "id": "5XtpOdabZQFew88aOHW4y",
@@ -22424,7 +22693,8 @@
             "boundElements": [],
             "updated": 1750189918450,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -22470,7 +22740,8 @@
             "boundElements": [],
             "updated": 1750189918450,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -22516,7 +22787,8 @@
             "boundElements": [],
             "updated": 1750189918450,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -22562,7 +22834,8 @@
             "boundElements": [],
             "updated": 1750189918450,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -22608,7 +22881,8 @@
             "boundElements": [],
             "updated": 1750189918450,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -22654,7 +22928,8 @@
             "boundElements": [],
             "updated": 1750189918450,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -22700,7 +22975,8 @@
             "boundElements": [],
             "updated": 1750189918450,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -22814,7 +23090,8 @@
             "boundElements": [],
             "updated": 1750189918450,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -23002,7 +23279,8 @@
             "boundElements": [],
             "updated": 1750189918450,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -23050,7 +23328,8 @@
             "boundElements": [],
             "updated": 1750189918450,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "rectangle",
@@ -23239,7 +23518,8 @@
             "link": null,
             "locked": false,
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -23292,7 +23572,8 @@
             "link": null,
             "locked": false,
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -23349,7 +23630,8 @@
             "link": null,
             "locked": false,
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -23410,7 +23692,8 @@
             "link": null,
             "locked": false,
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -23463,7 +23746,8 @@
             "link": null,
             "locked": false,
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -23520,7 +23804,8 @@
             "link": null,
             "locked": false,
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           }
         ],
         "id": "keK-yY0fJfvPBX8hrkHq3",
@@ -23958,7 +24243,8 @@
             "boundElements": [],
             "updated": 1750189918450,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -24004,7 +24290,8 @@
             "boundElements": [],
             "updated": 1750189918450,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -24050,7 +24337,8 @@
             "boundElements": [],
             "updated": 1750189918450,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -24096,7 +24384,8 @@
             "boundElements": [],
             "updated": 1750189918450,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -24142,7 +24431,8 @@
             "boundElements": [],
             "updated": 1750189918450,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -24188,7 +24478,8 @@
             "boundElements": [],
             "updated": 1750189918450,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -24234,7 +24525,8 @@
             "boundElements": [],
             "updated": 1750189918450,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -24346,7 +24638,8 @@
             "boundElements": [],
             "updated": 1750189918450,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -24815,7 +25108,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -24861,7 +25155,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -24907,7 +25202,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -24953,7 +25249,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -24999,7 +25296,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -25045,7 +25343,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -25091,7 +25390,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "rectangle",
@@ -25170,7 +25470,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -25422,7 +25723,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -25470,7 +25772,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -25542,7 +25845,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -25641,7 +25945,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           }
         ],
         "id": "S84ME-VkX_n_fWAafedkh",
@@ -26079,7 +26384,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -26125,7 +26431,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -26171,7 +26478,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -26217,7 +26525,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -26263,7 +26572,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -26309,7 +26619,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -26355,7 +26666,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "rectangle",
@@ -26434,7 +26746,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -26636,7 +26949,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -26683,7 +26997,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -26730,7 +27045,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -26777,7 +27093,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "text",
@@ -27136,7 +27453,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -27183,7 +27501,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -27230,7 +27549,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -27277,7 +27597,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -27324,7 +27645,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -27371,7 +27693,8 @@
             "boundElements": [],
             "updated": 1750189918451,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "text",
@@ -27824,7 +28147,8 @@
             "boundElements": [],
             "updated": 1750189918452,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -27872,7 +28196,8 @@
             "boundElements": [],
             "updated": 1750189918452,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -27920,7 +28245,8 @@
             "boundElements": [],
             "updated": 1750189918452,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -27968,7 +28294,8 @@
             "boundElements": [],
             "updated": 1750189918452,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -28016,7 +28343,8 @@
             "boundElements": [],
             "updated": 1750189918452,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -28064,7 +28392,8 @@
             "boundElements": [],
             "updated": 1750189918452,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -28112,7 +28441,8 @@
             "boundElements": [],
             "updated": 1750189918452,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -28160,7 +28490,8 @@
             "boundElements": [],
             "updated": 1750189918452,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -28208,7 +28539,8 @@
             "boundElements": [],
             "updated": 1750189918452,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -28256,7 +28588,8 @@
             "boundElements": [],
             "updated": 1750189918452,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "text",
@@ -28864,7 +29197,8 @@
             "boundElements": [],
             "updated": 1750189918452,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           }
         ],
         "id": "yAyyZbQaileYkmBAEAIEN",
@@ -29094,7 +29428,8 @@
             "boundElements": [],
             "updated": 1750189918453,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "id": "vHyv0wBDfAYIiSu9Rx0Ot",
@@ -29213,7 +29548,8 @@
             "boundElements": [],
             "updated": 1750189918453,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "text",
@@ -29573,7 +29909,8 @@
             "boundElements": [],
             "updated": 1750189918453,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -29724,7 +30061,8 @@
             "boundElements": [],
             "updated": 1750189918453,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -29840,7 +30178,8 @@
             "boundElements": [],
             "updated": 1750189918453,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           }
         ],
         "id": "jhJX_l14xyKz1uXW8RlMt",
@@ -30145,7 +30484,8 @@
             "boundElements": [],
             "updated": 1750189918453,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -30196,7 +30536,8 @@
             "boundElements": [],
             "updated": 1750189918453,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "text",
@@ -30517,7 +30858,8 @@
             "boundElements": [],
             "updated": 1750189918453,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -30639,7 +30981,8 @@
             "boundElements": [],
             "updated": 1750189918453,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -30767,7 +31110,8 @@
             "boundElements": [],
             "updated": 1750189918453,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "rectangle",
@@ -30890,7 +31234,8 @@
             "boundElements": [],
             "updated": 1750189918453,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -30941,7 +31286,8 @@
             "boundElements": [],
             "updated": 1750189918453,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "text",
@@ -31262,7 +31608,8 @@
             "boundElements": [],
             "updated": 1750189918453,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -31383,7 +31730,8 @@
             "boundElements": [],
             "updated": 1750189918453,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -31508,7 +31856,8 @@
             "boundElements": [],
             "updated": 1750189918453,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -31629,7 +31978,8 @@
             "boundElements": [],
             "updated": 1750189918453,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -31754,7 +32104,8 @@
             "boundElements": [],
             "updated": 1750189918453,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           }
         ],
         "id": "tqx32IM-CTzx20lf9F9aX",
@@ -45661,7 +46012,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -45736,7 +46088,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -45811,7 +46164,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -45886,7 +46240,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -45961,7 +46316,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -46036,7 +46392,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -46111,7 +46468,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -46186,7 +46544,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -46261,7 +46620,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -46336,7 +46696,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -46411,7 +46772,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -46486,7 +46848,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "id": "UuZRRdh2qEbGYN3bMmXwO",
@@ -59780,7 +60143,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -59831,7 +60195,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -59882,7 +60247,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -59933,7 +60299,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -59984,7 +60351,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -60039,7 +60407,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -60102,7 +60471,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -60157,7 +60527,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -60216,7 +60587,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -60271,7 +60643,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -60326,7 +60699,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -60381,7 +60755,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -60436,7 +60811,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -60495,7 +60871,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -60554,7 +60931,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -60621,7 +60999,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -60692,7 +61071,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -60747,7 +61127,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -60806,7 +61187,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -60869,7 +61251,8 @@
             "roundness": {
               "type": 2
             },
-            "locked": false
+            "locked": false,
+            "polygon": false
           }
         ],
         "created": 1644674738672,
@@ -78135,7 +78518,8 @@
             "boundElements": [],
             "updated": 1750187717967,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           }
         ],
         "id": "eRET_I-amdFKTL9OOOdCm",
@@ -78257,7 +78641,8 @@
             "boundElements": [],
             "updated": 1750187717967,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "id": "3CMZYj34FwjhgPB7jUC3f",
@@ -78328,7 +78713,8 @@
             "boundElements": [],
             "updated": 1750187717967,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "id": "DX3fUhBWtlJwYyrBDhebG",
@@ -78399,7 +78785,8 @@
             "boundElements": [],
             "updated": 1750187717967,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -78773,7 +79160,8 @@
             "boundElements": [],
             "updated": 1750187717968,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "id": "TYsYe2VvJ60T_yKa3kyOw",
@@ -78844,7 +79232,8 @@
             "boundElements": [],
             "updated": 1750187717968,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "id": "VIuxhGjvYUBniitomEkKm",
@@ -78915,7 +79304,8 @@
             "boundElements": [],
             "updated": 1750187717968,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -79138,7 +79528,8 @@
             "link": null,
             "locked": false,
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -79189,7 +79580,8 @@
             "link": null,
             "locked": false,
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -79244,7 +79636,8 @@
             "link": null,
             "locked": false,
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -79303,7 +79696,8 @@
             "link": null,
             "locked": false,
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -79354,7 +79748,8 @@
             "link": null,
             "locked": false,
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -79409,7 +79804,8 @@
             "link": null,
             "locked": false,
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           }
         ],
         "id": "qldovWK2xkTjn1yEu-Rh6",
@@ -79493,7 +79889,8 @@
             "boundElements": [],
             "updated": 1750187717968,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "id": "FHX0ZsIzUUfYPJqrZ8Lso",
@@ -79740,7 +80137,8 @@
             "boundElements": [],
             "updated": 1750187717968,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "id": "LX6kTl9A8K36ld2MEV4tI",
@@ -79787,7 +80185,8 @@
             "boundElements": [],
             "updated": 1750187717968,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "id": "SHmV_QtcwxIE-peI_QOX1",
@@ -79858,7 +80257,8 @@
             "boundElements": [],
             "updated": 1750187717968,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "id": "PKRg6SqIetkWIgRqBAnDY",
@@ -79955,7 +80355,8 @@
             "boundElements": [],
             "updated": 1750187717968,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           }
         ],
         "id": "hnDr8cFbhbboeBoi7XX7C",
@@ -80129,7 +80530,7 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": true,
-  "previousRelease": "2.11.1",
+  "previousRelease": "2.12.4",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
