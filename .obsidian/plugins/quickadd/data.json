@@ -14,7 +14,8 @@
         "enabled": true,
         "folders": [
           "3-Coding",
-          "4-personal"
+          "4-personal",
+          "5-work"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
