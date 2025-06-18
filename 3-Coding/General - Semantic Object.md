@@ -5,10 +5,12 @@ aliases:
   - Semantic Object 17-06-2025
 tags:
   - Programming/topic
-language: general
+language:
+  - general
+  - ai
 ---
 
-**Topics:** [[programing concepts]]
+**Topics:** [[programing concepts]], [[Artificial Intelligence & Machine Learning]]
 
 # 📃 Semantic Object 17-06-2025
 

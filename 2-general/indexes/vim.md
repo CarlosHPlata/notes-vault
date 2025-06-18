@@ -16,4 +16,7 @@ tags:
 ```dataview
 LIST FROM #Programming/topic 
 WHERE language = "Vim"
+OR language = "vim"
+OR contains(language, "vim")
+SORT title ASC
 ```

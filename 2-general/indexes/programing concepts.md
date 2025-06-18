@@ -14,4 +14,6 @@ tags:
 ```dataview
 LIST FROM #Programming/topic 
 WHERE language = "general"
+OR contains(language, "general")
+SORT title ASC
 ```

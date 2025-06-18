@@ -19,6 +19,8 @@ tmux is a powerful window manager for the terminal
 ```dataview
 LIST FROM #Programming/topic 
 WHERE language = "tmux"
+OR contains(language, "tmux")
+SORT title ASC
 ```
 
 ## 📦 Resources
