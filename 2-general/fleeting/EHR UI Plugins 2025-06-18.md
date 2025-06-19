@@ -1,9 +1,8 @@
 ---
 created:
-  - "2025-06-18 22:13"
+  - 2025-06-18 22:13
 tags:
   - fleeting
-  - new
 ---
 ```meta-bind-button
 label: Start adding topics

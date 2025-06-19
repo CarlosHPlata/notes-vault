@@ -3,6 +3,7 @@ aliases:
   - "{{title}}"
 tags:
   - Topic
+  - Programming
 ---
 
 # {{title}} Index

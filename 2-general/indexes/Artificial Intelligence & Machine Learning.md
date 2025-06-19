@@ -1,8 +1,9 @@
 ---
 aliases:
-  - "Artificial Intelligence & Machine Learning"
+  - Artificial Intelligence & Machine Learning
 tags:
   - Topic
+  - Programming
 ---
 
 # Artificial Intelligence & Machine Learning Index
