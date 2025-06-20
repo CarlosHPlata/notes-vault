@@ -11,5 +11,8 @@
   "quickadd",
   "obsidian-meta-bind-plugin",
   "obsidian-banners",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-custom-frames",
+  "obsidian-latex-suite",
+  "recent-files-obsidian"
 ]

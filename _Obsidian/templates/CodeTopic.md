@@ -25,7 +25,11 @@ aliases:
 ---
 <% tp.file.cursor(3) %>
 
-# 📦 References
+# 🔗 Relevant Notes
+
+---
+- <% tp.file.cursor(4) %>
+# 📦Sources and references
 
 ---
 

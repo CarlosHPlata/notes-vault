@@ -13,6 +13,10 @@ tags:
 ---
 <% tp.file.cursor(3) %>
 
+# 🔗 Relevant Notes
+
+---
+- <% tp.file.cursor(4) %>
 # 📦 References
 
 ---
