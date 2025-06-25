@@ -21,6 +21,11 @@ language: algorithms
 > [!tip] Search Algorithms
 > BFS is part of a family of algorithms called **Search Algorithms** designed to traverse and search values in [[Data Structures - Graphs|Graphs]] more specific is part of the so called [[Ai - Informed vs Uninformed Search problems|Uninformed Search Algorithms]]
 
+> [!info] **Time and Space complexity**
+> - **Time**: $O((n + e) \log {v})$
+> - **Space**: $O(n + e)$
+>     - $n$: Number of vertices (nodes)
+>     - $e$ Number of edges.
 ## Core Idea
 - Create a **queue** with a node $N$.
 - Create a **visited set** and add node $N$

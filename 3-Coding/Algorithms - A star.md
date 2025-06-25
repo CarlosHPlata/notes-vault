@@ -24,6 +24,17 @@ $$f(n) = g(n) + h(n)$$
 
 > [!tip] Search Algorithms
 > A* is part of algorithms called **Search Algorithms** designed to traverse and search values in [[Data Structures - Graphs|Graphs]] more specific is part of the so called [[Ai - Informed vs Uninformed Search problems|Informed Search Algorithms]].
+
+> [!info] **Time and Space complexity**
+> *Time complexity depends on the heuristic quality*
+> - **Time**: 
+>     - $O(e \log{n})$ for poor heuristic
+>     - $O(d \log{d})$ for perfect heuristic (always follows optimal path).
+> - **Space**: $O(n + e)$
+> 
+> - $n$: Number of vertices (nodes)
+> - $d$: Depth of the optimal solution
+> - $e$ Number of edges.
 ## Best of all
 You might assume, after reading [[Algorithms - Greedy Best First Search]], that it always finds the shortest path; but that would be a mistake. While Greedy Best-First Search **feels efficient** by choosing the node that seems closest to the goal (based on $h(n)$), it **doesn’t account for the cost of getting there**.
 

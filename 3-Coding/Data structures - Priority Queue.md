@@ -47,7 +47,7 @@ Inserting into a priority queue, as described in the [[Data structures - Binary 
 ```ts
 function insert(n: Node) {
     this.heap.push(n);
-    let nodeIndex = heap.length - 1;
+    let nodeIndex = this.heap.length - 1;
     
     shiftUp(nodeIndex);
 }

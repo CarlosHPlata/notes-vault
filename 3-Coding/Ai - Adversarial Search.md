@@ -26,7 +26,7 @@ A typical adversarial search problem is defined by:
 - $Player(S)$: indicates which player's turn is at state $S$.
 - $Actions(S)$: Returns all legal moves $A$ available in state $S$.
 - $Result(S, A)$: Returns the state $S'$ after applying an action $A$ on a state $S$.
-- $Terminal(S)$: Checks whether the state $S$ is a terminal state.
+- $isTerminal(S)$: Checks whether the state $S$ is a terminal state.
 - $Utility(S)$: Numerical score value for the outcome of terminal state $S$.
 
 ## Agents
@@ -45,6 +45,7 @@ Adversarial search leads to decision trees known as **game trees**, and solving 
 ---
 - [[Algorithms - Minimax]]
 - [[Ai - Zero-sum games in adversarial search]]
+- [[Ai - Utility functions in terminal state for adversarial search]]
 # 📦 References
 
 ---

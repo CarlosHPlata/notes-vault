@@ -1,6 +1,82 @@
 {
   "recentFiles": [
     {
+      "basename": "Algorithms - Alpha-beta pruning",
+      "path": "3-Coding/Algorithms - Alpha-beta pruning.md"
+    },
+    {
+      "basename": "Algorithms - Depth Limited minimax",
+      "path": "3-Coding/Algorithms - Depth Limited minimax.md"
+    },
+    {
+      "basename": "Algorithms - Minimax",
+      "path": "3-Coding/Algorithms - Minimax.md"
+    },
+    {
+      "basename": "Algorithms",
+      "path": "2-general/indexes/Algorithms.md"
+    },
+    {
+      "basename": "Algorithms - A star",
+      "path": "3-Coding/Algorithms - A star.md"
+    },
+    {
+      "basename": "Algorithms - BFS",
+      "path": "3-Coding/Algorithms - BFS.md"
+    },
+    {
+      "basename": "Algorithms - DFS",
+      "path": "3-Coding/Algorithms - DFS.md"
+    },
+    {
+      "basename": "Algorithms - Dijkstra’s",
+      "path": "3-Coding/Algorithms - Dijkstra’s.md"
+    },
+    {
+      "basename": "Algorithms - Greedy Best First Search",
+      "path": "3-Coding/Algorithms - Greedy Best First Search.md"
+    },
+    {
+      "basename": "C50 Artificial Inteligence 2025-06-19",
+      "path": "2-general/fleeting/C50 Artificial Inteligence 2025-06-19.md"
+    },
+    {
+      "basename": "Data structures - Priority Queue",
+      "path": "3-Coding/Data structures - Priority Queue.md"
+    },
+    {
+      "basename": "Data structures - Binary Heap",
+      "path": "3-Coding/Data structures - Binary Heap.md"
+    },
+    {
+      "basename": "Data structures - Array representation of binary tree",
+      "path": "3-Coding/Data structures - Array representation of binary tree.md"
+    },
+    {
+      "basename": "Data Structures - Graphs",
+      "path": "3-Coding/Data Structures - Graphs.md"
+    },
+    {
+      "basename": "Ai - Informed vs Uninformed Search problems",
+      "path": "3-Coding/Ai - Informed vs Uninformed Search problems.md"
+    },
+    {
+      "basename": "Ai - Adversarial Search",
+      "path": "3-Coding/Ai - Adversarial Search.md"
+    },
+    {
+      "basename": "Readme",
+      "path": "Readme.md"
+    },
+    {
+      "basename": "Ai - Utility functions in terminal state for adversarial search",
+      "path": "3-Coding/Ai - Utility functions in terminal state for adversarial search.md"
+    },
+    {
+      "basename": "Ai - Zero-sum games in adversarial search",
+      "path": "3-Coding/Ai - Zero-sum games in adversarial search.md"
+    },
+    {
       "basename": "Pasted image 20250623193154",
       "path": "_Obsidian/attachments/Pasted image 20250623193154.png"
     },
@@ -25,36 +101,12 @@
       "path": "_Obsidian/attachments/Pasted image 20250623130555.png"
     },
     {
-      "basename": "Readme",
-      "path": "Readme.md"
-    },
-    {
-      "basename": "Ai - Utility functions in terminal state for adversarial search",
-      "path": "3-Coding/Ai - Utility functions in terminal state for adversarial search.md"
-    },
-    {
-      "basename": "Algorithms - Minimax",
-      "path": "3-Coding/Algorithms - Minimax.md"
-    },
-    {
       "basename": "Artificial Intelligence & Machine Learning",
       "path": "2-general/indexes/Artificial Intelligence & Machine Learning.md"
     },
     {
-      "basename": "C50 Artificial Inteligence 2025-06-19",
-      "path": "2-general/fleeting/C50 Artificial Inteligence 2025-06-19.md"
-    },
-    {
-      "basename": "Ai - Adversarial Search",
-      "path": "3-Coding/Ai - Adversarial Search.md"
-    },
-    {
       "basename": "Topic",
       "path": "_Obsidian/templates/Topic.md"
-    },
-    {
-      "basename": "Ai - Zero-sum games in adversarial search",
-      "path": "3-Coding/Ai - Zero-sum games in adversarial search.md"
     },
     {
       "basename": "Ai - Search problems",
@@ -73,24 +125,8 @@
       "path": "3-Coding/Ai - Semantic Index.md"
     },
     {
-      "basename": "Algorithms - A star",
-      "path": "3-Coding/Algorithms - A star.md"
-    },
-    {
-      "basename": "Algorithms - Greedy Best First Search",
-      "path": "3-Coding/Algorithms - Greedy Best First Search.md"
-    },
-    {
-      "basename": "Algorithms - Dijkstra’s",
-      "path": "3-Coding/Algorithms - Dijkstra’s.md"
-    },
-    {
       "basename": "Ai - Parametric Models",
       "path": "3-Coding/Ai - Parametric Models.md"
-    },
-    {
-      "basename": "Ai - Informed vs Uninformed Search problems",
-      "path": "3-Coding/Ai - Informed vs Uninformed Search problems.md"
     },
     {
       "basename": "Ai - Hallucinations",
@@ -101,36 +137,8 @@
       "path": "3-Coding/Algorithms - Heuristics in search algorithms.md"
     },
     {
-      "basename": "Data Structures - Graphs",
-      "path": "3-Coding/Data Structures - Graphs.md"
-    },
-    {
-      "basename": "Algorithms - BFS",
-      "path": "3-Coding/Algorithms - BFS.md"
-    },
-    {
-      "basename": "Data structures - Priority Queue",
-      "path": "3-Coding/Data structures - Priority Queue.md"
-    },
-    {
-      "basename": "Data structures - Array representation of binary tree",
-      "path": "3-Coding/Data structures - Array representation of binary tree.md"
-    },
-    {
-      "basename": "Data structures - Binary Heap",
-      "path": "3-Coding/Data structures - Binary Heap.md"
-    },
-    {
       "basename": "Data structures",
       "path": "2-general/indexes/Data structures.md"
-    },
-    {
-      "basename": "Algorithms",
-      "path": "2-general/indexes/Algorithms.md"
-    },
-    {
-      "basename": "Algorithms - DFS",
-      "path": "3-Coding/Algorithms - DFS.md"
     },
     {
       "basename": "Algorithms - BFS 2025-06-22 21.53.20",
@@ -191,14 +199,6 @@
     {
       "basename": "EHR Architecture - Structured & Unestructured Data Ingestion",
       "path": "5-work/EHR Architecture - Structured & Unestructured Data Ingestion.md"
-    },
-    {
-      "basename": "EHR Architecture - Service Layer",
-      "path": "5-work/EHR Architecture - Service Layer.md"
-    },
-    {
-      "basename": "scheduling 2025-04-14",
-      "path": "2-general/fleeting/scheduling 2025-04-14.md"
     }
   ],
   "omittedPaths": [],

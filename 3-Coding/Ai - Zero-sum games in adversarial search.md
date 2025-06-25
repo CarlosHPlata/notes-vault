@@ -24,6 +24,7 @@ $$\forall S \in \text{TerminalStates}, \text{Utility}_{pa}(S) = -\text{Utility}_
 
 ---
 - [[Ai - Adversarial Search]]
+- [[Ai - Utility functions in terminal state for adversarial search]]
 # 📦 References
 
 ---

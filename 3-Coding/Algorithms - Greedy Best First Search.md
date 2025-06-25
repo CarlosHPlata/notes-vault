@@ -21,6 +21,13 @@ language: algorithms
 > [!tip] Search Algorithms
 > Greedy Best-First Search is part of algorithms called **Search Algorithms** designed to traverse and search values in [[Data Structures - Graphs|Graphs]] more specific is part of the so called [[Ai - Informed vs Uninformed Search problems|Informed Search Algorithms]].
 
+> [!info] **Time and Space complexity**
+> - Time: $O(n \log {n}) = O(b^d \log {b^d})$
+> - Space: $O(b^d)$
+>     - $b$: average number of successors per node.
+>     - $d$ depth of the shallowest goal node.
+>     - $n$ total number of nodes generated
+
 ## Core Idea
 - Create a **priority queue** with node $N$.
 - Create a **visited set** and add node $N$.

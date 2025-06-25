@@ -18,9 +18,15 @@ language: algorithms
 The difference with [[Algorithms - Greedy Best First Search|Best First Search]] is that instead of using an [[Algorithms - Heuristics in search algorithms|heuristic]] function $h(n)$ that estimates the **cost to a goal**, Dijkstra's takes the **opposite** approach, it calculates a function $g(n)$ of the **cost from the start**.
 
 As with Best First Search, Dijkstra uses a [[Data structures - Priority Queue|min-priority queue]] to structure the nodes to visit.
+
+> [!info] **Time and Space complexity**
+> - **Time**: $O((n + e) \log {v})$
+> - **Space**: $O(n + e)$
+>     - $n$: Number of vertices (nodes)
+>     - $e$ Number of edges.
 ## Core Idea
 - Initialize the cost to all nodes as ∞, except the start node (set to 0)
-- Use a **min-priority queue** to select the node with the **lowest cost-so-far**.
+- Use a **min-priority queue** to **select** the node with the **lowest cost-so-far**.
 - Add the current node to the priority queue.
 - Start a **visited set** with current node.
 - While the **priority queue** is not empty:
