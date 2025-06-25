@@ -1,6 +1,142 @@
 {
   "recentFiles": [
     {
+      "basename": "Pasted image 20250623193154",
+      "path": "_Obsidian/attachments/Pasted image 20250623193154.png"
+    },
+    {
+      "basename": "Pasted image 20250623191852",
+      "path": "_Obsidian/attachments/Pasted image 20250623191852.png"
+    },
+    {
+      "basename": "Pasted image 20250623190954",
+      "path": "_Obsidian/attachments/Pasted image 20250623190954.png"
+    },
+    {
+      "basename": "Pasted image 20250623143819",
+      "path": "_Obsidian/attachments/Pasted image 20250623143819.png"
+    },
+    {
+      "basename": "Pasted image 20250623131133",
+      "path": "_Obsidian/attachments/Pasted image 20250623131133.png"
+    },
+    {
+      "basename": "Pasted image 20250623130555",
+      "path": "_Obsidian/attachments/Pasted image 20250623130555.png"
+    },
+    {
+      "basename": "Readme",
+      "path": "Readme.md"
+    },
+    {
+      "basename": "Ai - Utility functions in terminal state for adversarial search",
+      "path": "3-Coding/Ai - Utility functions in terminal state for adversarial search.md"
+    },
+    {
+      "basename": "Algorithms - Minimax",
+      "path": "3-Coding/Algorithms - Minimax.md"
+    },
+    {
+      "basename": "Artificial Intelligence & Machine Learning",
+      "path": "2-general/indexes/Artificial Intelligence & Machine Learning.md"
+    },
+    {
+      "basename": "C50 Artificial Inteligence 2025-06-19",
+      "path": "2-general/fleeting/C50 Artificial Inteligence 2025-06-19.md"
+    },
+    {
+      "basename": "Ai - Adversarial Search",
+      "path": "3-Coding/Ai - Adversarial Search.md"
+    },
+    {
+      "basename": "Topic",
+      "path": "_Obsidian/templates/Topic.md"
+    },
+    {
+      "basename": "Ai - Zero-sum games in adversarial search",
+      "path": "3-Coding/Ai - Zero-sum games in adversarial search.md"
+    },
+    {
+      "basename": "Ai - Search problems",
+      "path": "3-Coding/Ai - Search problems.md"
+    },
+    {
+      "basename": "Ai - The Role of the Agent in AI Search",
+      "path": "3-Coding/Ai - The Role of the Agent in AI Search.md"
+    },
+    {
+      "basename": "Ai - Node Representation in Search Problems",
+      "path": "3-Coding/Ai - Node Representation in Search Problems.md"
+    },
+    {
+      "basename": "Ai - Semantic Index",
+      "path": "3-Coding/Ai - Semantic Index.md"
+    },
+    {
+      "basename": "Algorithms - A star",
+      "path": "3-Coding/Algorithms - A star.md"
+    },
+    {
+      "basename": "Algorithms - Greedy Best First Search",
+      "path": "3-Coding/Algorithms - Greedy Best First Search.md"
+    },
+    {
+      "basename": "Algorithms - Dijkstra’s",
+      "path": "3-Coding/Algorithms - Dijkstra’s.md"
+    },
+    {
+      "basename": "Ai - Parametric Models",
+      "path": "3-Coding/Ai - Parametric Models.md"
+    },
+    {
+      "basename": "Ai - Informed vs Uninformed Search problems",
+      "path": "3-Coding/Ai - Informed vs Uninformed Search problems.md"
+    },
+    {
+      "basename": "Ai - Hallucinations",
+      "path": "3-Coding/Ai - Hallucinations.md"
+    },
+    {
+      "basename": "Algorithms - Heuristics in search algorithms",
+      "path": "3-Coding/Algorithms - Heuristics in search algorithms.md"
+    },
+    {
+      "basename": "Data Structures - Graphs",
+      "path": "3-Coding/Data Structures - Graphs.md"
+    },
+    {
+      "basename": "Algorithms - BFS",
+      "path": "3-Coding/Algorithms - BFS.md"
+    },
+    {
+      "basename": "Data structures - Priority Queue",
+      "path": "3-Coding/Data structures - Priority Queue.md"
+    },
+    {
+      "basename": "Data structures - Array representation of binary tree",
+      "path": "3-Coding/Data structures - Array representation of binary tree.md"
+    },
+    {
+      "basename": "Data structures - Binary Heap",
+      "path": "3-Coding/Data structures - Binary Heap.md"
+    },
+    {
+      "basename": "Data structures",
+      "path": "2-general/indexes/Data structures.md"
+    },
+    {
+      "basename": "Algorithms",
+      "path": "2-general/indexes/Algorithms.md"
+    },
+    {
+      "basename": "Algorithms - DFS",
+      "path": "3-Coding/Algorithms - DFS.md"
+    },
+    {
+      "basename": "Algorithms - BFS 2025-06-22 21.53.20",
+      "path": "_Obsidian/attachments/Algorithms - BFS 2025-06-22 21.53.20.md"
+    },
+    {
       "basename": "Diagram - OCI AI Conversation Flow",
       "path": "5-work/Diagram - OCI AI Conversation Flow.md"
     },
@@ -13,32 +149,8 @@
       "path": "5-work/Diagram - OCI EHR AI powered high level architecture.md"
     },
     {
-      "basename": "Readme",
-      "path": "Readme.md"
-    },
-    {
-      "basename": "Ai - Informed vs Uninformed Search problems",
-      "path": "3-Coding/Ai - Informed vs Uninformed Search problems.md"
-    },
-    {
-      "basename": "Ai - Node Representation in Search Problems",
-      "path": "3-Coding/Ai - Node Representation in Search Problems.md"
-    },
-    {
-      "basename": "Ai - Parametric Models",
-      "path": "3-Coding/Ai - Parametric Models.md"
-    },
-    {
       "basename": "Ai - Retrieval-Augmented Generation (RAG)",
       "path": "3-Coding/Ai - Retrieval-Augmented Generation (RAG).md"
-    },
-    {
-      "basename": "Ai - Search problems",
-      "path": "3-Coding/Ai - Search problems.md"
-    },
-    {
-      "basename": "Ai - The Role of the Agent in AI Search",
-      "path": "3-Coding/Ai - The Role of the Agent in AI Search.md"
     },
     {
       "basename": "Sync your notes with Android device",
@@ -57,22 +169,6 @@
       "path": "_Obsidian/Obsidian shortcuts.md"
     },
     {
-      "basename": "Algorithms - BFS",
-      "path": "3-Coding/Algorithms - BFS.md"
-    },
-    {
-      "basename": "C50 Artificial Inteligence 2025-06-19",
-      "path": "2-general/fleeting/C50 Artificial Inteligence 2025-06-19.md"
-    },
-    {
-      "basename": "Artificial Intelligence & Machine Learning",
-      "path": "2-general/indexes/Artificial Intelligence & Machine Learning.md"
-    },
-    {
-      "basename": "Topic",
-      "path": "_Obsidian/templates/Topic.md"
-    },
-    {
       "basename": "CodeTopic",
       "path": "_Obsidian/templates/CodeTopic.md"
     },
@@ -83,10 +179,6 @@
     {
       "basename": "CodeLearning",
       "path": "_Obsidian/templates/CodeLearning.md"
-    },
-    {
-      "basename": "Algorithms",
-      "path": "2-general/indexes/Algorithms.md"
     },
     {
       "basename": "EHR Plugins - Plugin Communication via Semantic Events and Context",

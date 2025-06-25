@@ -5,15 +5,18 @@ aliases:
   - Informed vs Uninformed Search in AI 19-06-2025
 tags:
   - Programming/topic
-language: ai
+language:
+  - ai
+  - algorithms
 ---
 
 **Topics:** [[Artificial Intelligence & Machine Learning]], [[Algorithms]]
 
-# 📃 Informed vs Uninformed Search in AI 19-06-2025
+# 📃 Informed vs Uninformed Search 19-06-2025
+
 
 ---
-Search strategies in AI can be broadly categorized as **uninformed** or **informed**, based on whether they use additional knowledge about the problem domain. The choice between them affects efficiency, completeness, and optimality.
+Search strategies can be broadly categorized as **uninformed** or **informed**, based on whether they use additional knowledge about the problem domain. The choice between them affects efficiency, completeness, and optimality.
 
 ## Uninformed Search (Blind Search)
 These strategies do not use **domain-specific knowledge** beyond the problem definition (initial state, actions, transition model, goal test).
@@ -28,6 +31,7 @@ These strategies use **problem-specific knowledge** to guide and find solutions 
 - [[Algorithms - DFS]]
 - [[Algorithms - A star]]
 - [[Algorithms - Greedy Best First Search]]
+- [[Algorithms - Dijkstra’s]]
 # 📦 References
 
 ---

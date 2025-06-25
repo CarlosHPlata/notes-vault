@@ -13,7 +13,7 @@ language: ai
 # 📃 Search problems 19-06-2025
 
 ---
-A **Search Problem** is a formalized way to describe decission-making tasks in **Artificial Intelligence**. it frames a goal-oriented scenario as a traversal through a space of possible configurations (states) tat an intelligent [[Ai - The Role of the Agent in AI Search|Agent]] can reach through a series of valid actions.
+A **Search Problem** is a formalized way to describe decission-making tasks in **Artificial Intelligence**. it frames a goal-oriented scenario as a traversal through a space of possible configurations (states) that an intelligent [[Ai - The Role of the Agent in AI Search|Agent]] can reach through a series of valid actions.
 ## Core components
 A search problem consists of:
 - **Initial State** $S$: The starting configuration of the agent
@@ -45,6 +45,8 @@ Once framed as a search problem, the same algorithms can be reused across domain
 - [[Ai - Informed vs Uninformed Search problems]]
 - [[Algorithms - BFS]]
 - [[Algorithms - DFS]]
+- [[Algorithms - Dijkstra’s]]
+- [[Algorithms - Greedy Best First Search]]
 - [[Algorithms - A star]]
 # 📦 References
 
