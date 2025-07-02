@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "CS50 2 - Knowledge 2025-07-01",
+      "path": "2-general/fleeting/CS50 2 - Knowledge 2025-07-01.md"
+    },
+    {
+      "basename": "Readme",
+      "path": "Readme.md"
+    },
+    {
+      "basename": "EHR Architecture - Data Layer",
+      "path": "5-work/EHR Architecture - Data Layer.md"
+    },
+    {
       "basename": "Algorithms - Alpha-beta pruning",
       "path": "3-Coding/Algorithms - Alpha-beta pruning.md"
     },
@@ -63,10 +75,6 @@
     {
       "basename": "Ai - Adversarial Search",
       "path": "3-Coding/Ai - Adversarial Search.md"
-    },
-    {
-      "basename": "Readme",
-      "path": "Readme.md"
     },
     {
       "basename": "Ai - Utility functions in terminal state for adversarial search",
@@ -191,14 +199,6 @@
     {
       "basename": "EHR Plugins - Plugin Communication via Semantic Events and Context",
       "path": "5-work/EHR Plugins - Plugin Communication via Semantic Events and Context.md"
-    },
-    {
-      "basename": "EHR Plugins - UI Plugins as Micro Frontends in CDA Framework",
-      "path": "5-work/EHR Plugins - UI Plugins as Micro Frontends in CDA Framework.md"
-    },
-    {
-      "basename": "EHR Architecture - Structured & Unestructured Data Ingestion",
-      "path": "5-work/EHR Architecture - Structured & Unestructured Data Ingestion.md"
     }
   ],
   "omittedPaths": [],

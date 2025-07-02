@@ -44,6 +44,8 @@ Adversarial search leads to decision trees known as **game trees**, and solving 
 
 ---
 - [[Algorithms - Minimax]]
+- [[Algorithms - Alpha-beta pruning]]
+- [[Algorithms - Depth Limited minimax]]
 - [[Ai - Zero-sum games in adversarial search]]
 - [[Ai - Utility functions in terminal state for adversarial search]]
 # 📦 References

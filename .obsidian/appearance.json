@@ -7,5 +7,6 @@
     "color-math"
   ],
   "showViewHeader": true,
-  "showRibbon": false
+  "showRibbon": false,
+  "translucency": false
 }

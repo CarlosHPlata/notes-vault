@@ -3,7 +3,6 @@ created:
   - 2025-06-19 15:10
 tags:
   - fleeting
-  - new
 cssclasses:
   - color-math
 ---
